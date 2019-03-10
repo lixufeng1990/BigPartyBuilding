@@ -1,0 +1,373 @@
+{
+    "系统管理员": {
+        "name": "系统管理员",
+        "upper_department_name": "组织人事部",
+        "project_name": "KX03 建设智慧科协，打造网上科技工作者之家",
+        "department_name": "系统开发运维",
+        "project_role": "秘书组"
+    },
+    "王守东": {
+        "name": "王守东",
+        "upper_department_name": "组织人事部",
+        "project_name": "KX06 开展提升基层科协组织力“3+1”试点",
+        "department_name": "部门领导",
+        "project_role": "牵头部门负责人"
+    },
+    "刘宴兵": {
+        "name": "刘宴兵",
+        "upper_department_name": "学会学术部（企业工作办公室）",
+        "project_name": "KX10 建设世界一流期刊，分领域发布我国高水平科技期刊分级目录",
+        "department_name": "部门领导",
+        "project_role": "牵头部门负责人"
+    },
+    "": {
+        "name": "",
+        "upper_department_name": "调研宣传部",
+        "project_name": "KX08 开展科学家精神宣传",
+        "department_name": "综合处",
+        "project_role": "牵头部门责任人"
+    },
+    "孔祥宇": {
+        "name": "孔祥宇",
+        "upper_department_name": "中国科学技术出版社",
+        "project_name": "KX03 建设智慧科协，打造网上科技工作者之家",
+        "department_name": "办公室",
+        "project_role": "观察员"
+    },
+    "张玥": {
+        "name": "张玥",
+        "upper_department_name": "学会学术部（企业工作办公室）",
+        "project_name": "KX18 中国科技战略委员会",
+        "department_name": "综合处",
+        "project_role": "观察员"
+    },
+    "周亚楠": {
+        "name": "周亚楠",
+        "upper_department_name": "学会学术部（企业工作办公室）",
+        "project_name": "KX10 建设世界一流期刊，分领域发布我国高水平科技期刊分级目录",
+        "department_name": "综合处",
+        "project_role": "秘书组"
+    },
+    "王大鹏（科普部）": {
+        "name": "王大鹏（科普部）",
+        "upper_department_name": "科学技术普及部",
+        "project_name": "KX14 深入推进互联网+科普行动",
+        "department_name": "资源办（联络处）",
+        "project_role": "秘书组"
+    },
+    "秦德继": {
+        "name": "秦德继",
+        "upper_department_name": "中国科学技术出版社",
+        "project_name": "KX15 实施科普服务乡村振兴计划",
+        "department_name": "社领导",
+        "project_role": "参与部门负责人"
+    },
+    "辛兵": {
+        "name": "辛兵",
+        "upper_department_name": "培训和人才服务中心",
+        "project_name": "KX14 深入推进互联网+科普行动",
+        "department_name": "班子成员",
+        "project_role": "参与部门负责人"
+    },
+    "王蓓": {
+        "name": "王蓓",
+        "upper_department_name": "计划财务部",
+        "project_name": "KX04 编制发布中国科协事业发展中长期规划纲要",
+        "department_name": "部门领导",
+        "project_role": "牵头部门负责人"
+    },
+    "王绍兰": {
+        "name": "王绍兰",
+        "upper_department_name": "组织人事部",
+        "project_name": "KX01 中国科协“传承 创新 发展”主题年工作的方案制定和组织实施",
+        "department_name": "系统开发运维",
+        "project_role": "秘书组"
+    },
+    "刘菲菲": {
+        "name": "刘菲菲",
+        "upper_department_name": "中国科学技术出版社",
+        "project_name": "KX14 深入推进互联网+科普行动",
+        "department_name": "中科数创公司",
+        "project_role": "参与部门责任人"
+    },
+    "乔雷": {
+        "name": "乔雷",
+        "upper_department_name": "中国科学技术出版社",
+        "project_name": "KX14 深入推进互联网+科普行动",
+        "department_name": "中科数创公司",
+        "project_role": "参与部门责任人"
+    },
+    "李华慧": {
+        "name": "李华慧",
+        "upper_department_name": "中国科学技术出版社",
+        "project_name": "KX14 深入推进互联网+科普行动",
+        "department_name": "中科数创公司",
+        "project_role": "参与部门责任人"
+    },
+    "张森": {
+        "name": "张森",
+        "upper_department_name": "国际联络部",
+        "project_name": "KX02 “全国科技工作者日”系列活动",
+        "department_name": "部门领导",
+        "project_role": "参与部门负责人"
+    },
+    "戴涛": {
+        "name": "戴涛",
+        "upper_department_name": "组织人事部",
+        "project_name": "KX06 开展提升基层科协组织力“3+1”试点",
+        "department_name": "组织处",
+        "project_role": "参与人"
+    },
+    "宋军": {
+        "name": "宋军",
+        "upper_department_name": "中国科学技术协会",
+        "project_name": "KX06 开展提升基层科协组织力“3+1”试点",
+        "department_name": "党组书记处",
+        "project_role": "参与部门负责人"
+    },
+    "王浩": {
+        "name": "王浩",
+        "upper_department_name": "机关服务中心",
+        "project_name": "KX02 “全国科技工作者日”系列活动",
+        "department_name": "服务一处",
+        "project_role": "参与部门责任人"
+    },
+    "符晓静": {
+        "name": "符晓静",
+        "upper_department_name": "中国科学技术出版社",
+        "project_name": "KX02 “全国科技工作者日”系列活动",
+        "department_name": "生活健康编辑部",
+        "project_role": "参与部门责任人"
+    },
+    "柏坤": {
+        "name": "柏坤",
+        "upper_department_name": "中国科学技术出版社",
+        "project_name": "KX02 “全国科技工作者日”系列活动",
+        "department_name": "业务拓展部（法务部）",
+        "project_role": "参与部门责任人"
+    },
+    "王大鹏（科普所）": {
+        "name": "王大鹏（科普所）",
+        "upper_department_name": "中国科普研究所",
+        "project_name": "KX01 中国科协“传承 创新 发展”主题年工作的方案制定和组织实施",
+        "department_name": "科学媒介研究室",
+        "project_role": "观察员"
+    },
+    "陈诚": {
+        "name": "陈诚",
+        "upper_department_name": "机关离退休办公室",
+        "project_name": "KX01 中国科协“传承 创新 发展”主题年工作的方案制定和组织实施",
+        "department_name": "综合处",
+        "project_role": "观察员"
+    },
+    "曾永林": {
+        "name": "曾永林",
+        "upper_department_name": "办公厅",
+        "project_name": "KX02 “全国科技工作者日”系列活动",
+        "department_name": "综合处（信访办公室）",
+        "project_role": "牵头部门责任人"
+    },
+    "杨夏飞": {
+        "name": "杨夏飞",
+        "upper_department_name": "办公厅",
+        "project_name": "KX02 “全国科技工作者日”系列活动",
+        "department_name": "信息处（代表联络处）",
+        "project_role": "牵头部门责任人"
+    },
+    "王欣华": {
+        "name": "王欣华",
+        "upper_department_name": "科学技术普及部",
+        "project_name": "KX13 推动《全民科学素质行动计划纲要》",
+        "department_name": "基层处",
+        "project_role": "牵头部门责任人"
+    },
+    "刘晓婕": {
+        "name": "刘晓婕",
+        "upper_department_name": "科学技术普及部",
+        "project_name": "KX13 推动《全民科学素质行动计划纲要》",
+        "department_name": "综合处",
+        "project_role": "参与人"
+    },
+    "许慧": {
+        "name": "许慧",
+        "upper_department_name": "中国科学技术出版社",
+        "project_name": "KX11 创新开展省-会合作工作",
+        "department_name": "副总编",
+        "project_role": "参与部门责任人"
+    },
+    "林清快": {
+        "name": "林清快",
+        "upper_department_name": "企业创新服务中心",
+        "project_name": "KX11 创新开展省-会合作工作",
+        "department_name": "产学研合作促进处",
+        "project_role": "参与部门责任人"
+    },
+    "黄传吉": {
+        "name": "黄传吉",
+        "upper_department_name": "企业创新服务中心",
+        "project_name": "KX11 创新开展省-会合作工作",
+        "department_name": "企业科协处",
+        "project_role": "参与部门责任人"
+    },
+    "王素": {
+        "name": "王素",
+        "upper_department_name": "学会学术部（企业工作办公室）",
+        "project_name": "KX10 建设世界一流期刊，分领域发布我国高水平科技期刊分级目录",
+        "department_name": "期刊出版处",
+        "project_role": "牵头部门责任人"
+    },
+    "庄岩": {
+        "name": "庄岩",
+        "upper_department_name": "学会学术部（企业工作办公室）",
+        "project_name": "KX10 建设世界一流期刊，分领域发布我国高水平科技期刊分级目录",
+        "department_name": "期刊出版处",
+        "project_role": "牵头部门责任人"
+    },
+    "刘宏伟": {
+        "name": "刘宏伟",
+        "upper_department_name": "办公厅",
+        "project_name": "KX01 中国科协“传承 创新 发展”主题年工作的方案制定和组织实施",
+        "department_name": "秘书处（督查室）",
+        "project_role": "牵头部门责任人"
+    },
+    "王贵欢": {
+        "name": "王贵欢",
+        "upper_department_name": "机关服务中心",
+        "project_name": "KX17 世界公众科学素质促进大会",
+        "department_name": "人事保卫处",
+        "project_role": "参与部门责任人"
+    },
+    "杨爽": {
+        "name": "杨爽",
+        "upper_department_name": "中国国际科技交流中心",
+        "project_name": "KX17 世界公众科学素质促进大会",
+        "department_name": "会议展览处",
+        "project_role": "参与部门责任人"
+    },
+    "陈诗": {
+        "name": "陈诗",
+        "upper_department_name": "中国科普研究所",
+        "project_name": "KX17 世界公众科学素质促进大会",
+        "department_name": "科学素质研究室",
+        "project_role": "参与人"
+    },
+    "纪一鹏": {
+        "name": "纪一鹏",
+        "upper_department_name": "中国科学技术协会",
+        "project_name": "KX17 世界公众科学素质促进大会",
+        "department_name": "科学技术普及部",
+        "project_role": "牵头部门责任人"
+    },
+    "桑海波": {
+        "name": "桑海波",
+        "upper_department_name": "中国科学技术协会",
+        "project_name": "KX17 世界公众科学素质促进大会",
+        "department_name": "科学技术普及部",
+        "project_role": "牵头部门责任人"
+    },
+    "张博": {
+        "name": "张博",
+        "upper_department_name": "学会学术部（企业工作办公室）",
+        "project_name": "KX09 打造世界一流学会",
+        "department_name": "改革发展处",
+        "project_role": "牵头部门责任人"
+    },
+    "王寅秋": {
+        "name": "王寅秋",
+        "upper_department_name": "创新战略研究院",
+        "project_name": "ZT06编辑报送《科技前沿》专报",
+        "department_name": "科研外事处",
+        "project_role": "秘书组"
+    },
+    "王惠庭": {
+        "name": "王惠庭",
+        "upper_department_name": "机关服务中心",
+        "project_name": "KX22 第二十届中国科协年会",
+        "department_name": "行政管理处",
+        "project_role": "参与人"
+    },
+    "董阳": {
+        "name": "董阳",
+        "upper_department_name": "创新战略研究院",
+        "project_name": "ZT06编辑报送《科技前沿》专报",
+        "department_name": "创新评估研究所",
+        "project_role": "参与人"
+    },
+    "李政": {
+        "name": "李政",
+        "upper_department_name": "创新战略研究院",
+        "project_name": "ZT06编辑报送《科技前沿》专报",
+        "department_name": "科研外事处",
+        "project_role": "参与人"
+    },
+    "赵若锦": {
+        "name": "赵若锦",
+        "upper_department_name": "创新战略研究院",
+        "project_name": "ZT06编辑报送《科技前沿》专报",
+        "department_name": "创新评估研究所",
+        "project_role": "参与人"
+    },
+    "曹学伟": {
+        "name": "曹学伟",
+        "upper_department_name": "创新战略研究院",
+        "project_name": "ZT06编辑报送《科技前沿》专报",
+        "department_name": "文献信息中心",
+        "project_role": "参与人"
+    },
+    "王达": {
+        "name": "王达",
+        "upper_department_name": "创新战略研究院",
+        "project_name": "ZT06编辑报送《科技前沿》专报",
+        "department_name": "文献信息中心",
+        "project_role": "参与人"
+    },
+    "郜媛莹": {
+        "name": "郜媛莹",
+        "upper_department_name": "创新战略研究院",
+        "project_name": "ZT06编辑报送《科技前沿》专报",
+        "department_name": "创新评估研究所",
+        "project_role": "参与人"
+    },
+    "赵令锐": {
+        "name": "赵令锐",
+        "upper_department_name": "创新战略研究院",
+        "project_name": "ZT06编辑报送《科技前沿》专报",
+        "department_name": "创新评估研究所",
+        "project_role": "参与人"
+    },
+    "姜伟辰": {
+        "name": "姜伟辰",
+        "upper_department_name": "中国科协青少年科技中心",
+        "project_name": "ZT15 实施青少年科技教育国际拓展计划",
+        "department_name": "交流处",
+        "project_role": "参与人"
+    },
+    "张萌": {
+        "name": "张萌",
+        "upper_department_name": "机关服务中心",
+        "project_name": "ZT17九届六次常委会议",
+        "department_name": "办公室",
+        "project_role": "牵头部门责任人"
+    },
+    "郝丽鑫": {
+        "name": "郝丽鑫",
+        "upper_department_name": "中国科普研究所",
+        "project_name": "ZT13研究科普进手游，构建以游戏为载体的新型科普资源",
+        "department_name": "科普创作研究室",
+        "project_role": "参与人"
+    },
+    "周庆云": {
+        "name": "周庆云",
+        "upper_department_name": "机关服务中心",
+        "project_name": "ZT18九届四次全委会议",
+        "department_name": "班子成员兼办公室主任",
+        "project_role": "参与部门负责人"
+    },
+    "马英": {
+        "name": "马英",
+        "upper_department_name": "机关服务中心",
+        "project_name": "ZT18九届四次全委会议",
+        "department_name": "服务三处",
+        "project_role": "参与部门责任人"
+    }
+}

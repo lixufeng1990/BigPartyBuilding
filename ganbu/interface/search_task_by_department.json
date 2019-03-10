@@ -1,0 +1,331 @@
+{
+    "big_tasks_count": 14,
+    "units_count": 6,
+    "one_level_task_count": 40,
+    "two_level_task_count": 58,
+    "tasks_finish_info": {
+        "finished": 5,
+        "7699": 7,
+        "5175": 1,
+        "50": 1
+    },
+    "big_tasks": [
+        [
+            "KX01 中国科协“传承 创新 发展”主题年工作的方案制定和组织实施",
+            {
+                "project_name": "KX01 中国科协“传承 创新 发展”主题年工作的方案制定和组织实施",
+                "project_type": "重大任务",
+                "finish_degree": "76-%-99%",
+                "project_progress": 84.0,
+                "join_people_num": 15,
+                "one_level_tasks_count": 18,
+                "two_level_tasks_count": 0
+            }
+        ],
+        [
+            "ZT17九届六次常委会议",
+            {
+                "project_name": "ZT17九届六次常委会议",
+                "project_type": "重点工作",
+                "finish_degree": "已完成",
+                "project_progress": 100.0,
+                "join_people_num": 15,
+                "one_level_tasks_count": 30,
+                "two_level_tasks_count": 43
+            }
+        ],
+        [
+            "KX02 “全国科技工作者日”系列活动",
+            {
+                "project_name": "KX02 “全国科技工作者日”系列活动",
+                "project_type": "重大任务",
+                "finish_degree": "已完成",
+                "project_progress": 100.0,
+                "join_people_num": 14,
+                "one_level_tasks_count": 22,
+                "two_level_tasks_count": 25
+            }
+        ],
+        [
+            "ZT18九届四次全委会议",
+            {
+                "project_name": "ZT18九届四次全委会议",
+                "project_type": "重点工作",
+                "finish_degree": "已完成",
+                "project_progress": 100.0,
+                "join_people_num": 13,
+                "one_level_tasks_count": 35,
+                "two_level_tasks_count": 51
+            }
+        ],
+        [
+            "KX22 第二十届中国科协年会",
+            {
+                "project_name": "KX22 第二十届中国科协年会",
+                "project_type": "重大任务",
+                "finish_degree": "已完成",
+                "project_progress": 100.0,
+                "join_people_num": 9,
+                "one_level_tasks_count": 22,
+                "two_level_tasks_count": 37
+            }
+        ],
+        [
+            "KX17 世界公众科学素质促进大会",
+            {
+                "project_name": "KX17 世界公众科学素质促进大会",
+                "project_type": "重大任务",
+                "finish_degree": "76-%-99%",
+                "project_progress": 99.0,
+                "join_people_num": 8,
+                "one_level_tasks_count": 22,
+                "two_level_tasks_count": 25
+            }
+        ],
+        [
+            "ZT19九届七次常委会议",
+            {
+                "project_name": "ZT19九届七次常委会议",
+                "project_type": "重点工作",
+                "finish_degree": "已完成",
+                "project_progress": 100.0,
+                "join_people_num": 5,
+                "one_level_tasks_count": 40,
+                "two_level_tasks_count": 58
+            }
+        ],
+        [
+            "ZT16制定并实施中国科协调研规划，为科技工作者办一批实事",
+            {
+                "project_name": "ZT16制定并实施中国科协调研规划，为科技工作者办一批实事",
+                "project_type": "重点工作",
+                "finish_degree": "51%-75%",
+                "project_progress": 57.0,
+                "join_people_num": 4,
+                "one_level_tasks_count": 25,
+                "two_level_tasks_count": 37
+            }
+        ],
+        [
+            "KX03 建设智慧科协，打造网上科技工作者之家",
+            {
+                "project_name": "KX03 建设智慧科协，打造网上科技工作者之家",
+                "project_type": "重大任务",
+                "finish_degree": "76-%-99%",
+                "project_progress": 96.0,
+                "join_people_num": 2,
+                "one_level_tasks_count": 0,
+                "two_level_tasks_count": 0
+            }
+        ],
+        [
+            "KX04 编制发布中国科协事业发展中长期规划纲要",
+            {
+                "project_name": "KX04 编制发布中国科协事业发展中长期规划纲要",
+                "project_type": "重大任务",
+                "finish_degree": "76-%-99%",
+                "project_progress": 94.0,
+                "join_people_num": 2,
+                "one_level_tasks_count": 22,
+                "two_level_tasks_count": 25
+            }
+        ],
+        [
+            "KX07 评颁首届全国杰出工程师奖",
+            {
+                "project_name": "KX07 评颁首届全国杰出工程师奖",
+                "project_type": "重大任务",
+                "finish_degree": "50%以下",
+                "project_progress": 35.0,
+                "join_people_num": 1,
+                "one_level_tasks_count": 0,
+                "two_level_tasks_count": 0
+            }
+        ],
+        [
+            "KX06 开展提升基层科协组织力“3+1”试点",
+            {
+                "project_name": "KX06 开展提升基层科协组织力“3+1”试点",
+                "project_type": "重大任务",
+                "finish_degree": "76-%-99%",
+                "project_progress": 89.0,
+                "join_people_num": 1,
+                "one_level_tasks_count": 18,
+                "two_level_tasks_count": 0
+            }
+        ],
+        [
+            "KX24 第33届全国青少年科技创新大赛+第十八届中国青少年机器人竞赛暨2018世界青少年机器人邀请赛",
+            {
+                "project_name": "KX24 第33届全国青少年科技创新大赛+第十八届中国青少年机器人竞赛暨2018世界青少年机器人邀请赛",
+                "project_type": "重大任务",
+                "finish_degree": "76-%-99%",
+                "project_progress": 91.0,
+                "join_people_num": 1,
+                "one_level_tasks_count": 22,
+                "two_level_tasks_count": 37
+            }
+        ],
+        [
+            "KX25 国家科技传播中心工程建设、内容建设",
+            {
+                "project_name": "KX25 国家科技传播中心工程建设、内容建设",
+                "project_type": "重大任务",
+                "finish_degree": "76-%-99%",
+                "project_progress": 82.0,
+                "join_people_num": 1,
+                "one_level_tasks_count": 22,
+                "two_level_tasks_count": 37
+            }
+        ]
+    ],
+    "jion_task_people_count": 14,
+    "join_one_level_people_count": 14,
+    "join_two_level_people_count": 12,
+    "join_one_level_finish_count": 14,
+    "join_one_level_unfinish_count": 2,
+    "join_two_level_finish_count": 12,
+    "join_two_level_unfinish_count": 2,
+    "people_join_task_info": [
+        [
+            "于小晗",
+            {
+                "name": "于小晗",
+                "one_level_finish": 36,
+                "one_level_unfinish": 0,
+                "two_level_finish": 20,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "张卓",
+            {
+                "name": "张卓",
+                "one_level_finish": 18,
+                "one_level_unfinish": 0,
+                "two_level_finish": 27,
+                "two_level_unfinish": 1
+            }
+        ],
+        [
+            "陈晓明",
+            {
+                "name": "陈晓明",
+                "one_level_finish": 23,
+                "one_level_unfinish": 0,
+                "two_level_finish": 22,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "强兴军",
+            {
+                "name": "强兴军",
+                "one_level_finish": 17,
+                "one_level_unfinish": 0,
+                "two_level_finish": 23,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "董力男",
+            {
+                "name": "董力男",
+                "one_level_finish": 23,
+                "one_level_unfinish": 1,
+                "two_level_finish": 15,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "赵金毅",
+            {
+                "name": "赵金毅",
+                "one_level_finish": 8,
+                "one_level_unfinish": 2,
+                "two_level_finish": 27,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "杨熙",
+            {
+                "name": "杨熙",
+                "one_level_finish": 16,
+                "one_level_unfinish": 0,
+                "two_level_finish": 20,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "徐敏",
+            {
+                "name": "徐敏",
+                "one_level_finish": 9,
+                "one_level_unfinish": 0,
+                "two_level_finish": 12,
+                "two_level_unfinish": 2
+            }
+        ],
+        [
+            "刘国伟",
+            {
+                "name": "刘国伟",
+                "one_level_finish": 8,
+                "one_level_unfinish": 0,
+                "two_level_finish": 13,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "吴小林",
+            {
+                "name": "吴小林",
+                "one_level_finish": 3,
+                "one_level_unfinish": 0,
+                "two_level_finish": 5,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "赵婷婷",
+            {
+                "name": "赵婷婷",
+                "one_level_finish": 2,
+                "one_level_unfinish": 0,
+                "two_level_finish": 4,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "贾瑾",
+            {
+                "name": "贾瑾",
+                "one_level_finish": 3,
+                "one_level_unfinish": 0,
+                "two_level_finish": 1,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "姬刚",
+            {
+                "name": "姬刚",
+                "one_level_finish": 2,
+                "one_level_unfinish": 0,
+                "two_level_finish": 0,
+                "two_level_unfinish": 0
+            }
+        ],
+        [
+            "徐琳",
+            {
+                "name": "徐琳",
+                "one_level_finish": 1,
+                "one_level_unfinish": 0,
+                "two_level_finish": 0,
+                "two_level_unfinish": 0
+            }
+        ]
+    ]
+}
