@@ -12,13 +12,15 @@ def get_9th_daibiao():
 
     sheetno = 0
 
-    province_col = 0
+    suggest_unit_col = 0
     name_col = 3
     sex_col = 4
     nation_col = 5
     birthDay_col = 6
     political_outlook_col = 7  # 政治面貌
+    hometown_col = 9
     xueli_col = 12  # 学历
+    graduate_school_col = 13  # 毕业院校
     major_col = 14 #专业
     speciality_col = 16  #专长
     maior_job_col = 17  #专业技术职务
@@ -32,14 +34,16 @@ def get_9th_daibiao():
     nrows = table.nrows
     for row in range(1, nrows):
         people = {}
-        people['province'] = table.row_values(row)[province_col]
+        people['suggest_unit'] = table.row_values(row)[suggest_unit_col]
         people['name'] = table.row_values(row)[name_col]
         people['sex'] = table.row_values(row)[sex_col]
         people['nation'] = table.row_values(row)[nation_col]
         people['birthDay'] = table.row_values(row)[birthDay_col]
         people['age'] = 2018 - int(table.row_values(row)[birthDay_col].split('-')[0])
         people['political_outlook'] = table.row_values(row)[political_outlook_col]
+        people['hometown'] = table.row_values(row)[hometown_col]
         people['xueli'] = table.row_values(row)[xueli_col]
+        people['graduate_school'] = table.row_values(row)[graduate_school_col]
         people['major'] = table.row_values(row)[major_col]
         people['speciality'] = table.row_values(row)[speciality_col]
         people['maior_job'] = table.row_values(row)[maior_job_col]
@@ -361,7 +365,7 @@ def load_5_wei():
 
 
 if __name__ == '__main__':
-    # json.dump(get_9th_daibiao(), codecs.open('../data/9th_daibiao.json', 'w', encoding='utf-8'), ensure_ascii=False)
+    json.dump(get_9th_daibiao(), codecs.open('../data/9th_daibiao.json', 'w', encoding='utf-8'), ensure_ascii=False)
     # json.dump(get_15th_qingke_candidate(), codecs.open('../data/15th_qingke_candidate.json', 'w', encoding='utf-8'), ensure_ascii=False)
     # json.dump(all_qingke(), codecs.open('../data/all_qingke.json', 'w', encoding='utf-8'), ensure_ascii=False)
     # json.dump(get_2017_yuanshi_candidate(), codecs.open('../data/2017_yuanshi_candidate.json', 'w', encoding='utf-8'), ensure_ascii=False)
@@ -369,4 +373,4 @@ if __name__ == '__main__':
     # json.dump(get_1st_chuangxin_candidate(), codecs.open('../data/1st_chuangxin_candidate.json', 'w', encoding='utf-8'), ensure_ascii=False)
     # json.dump(load_all_female_scientists(), codecs.open('../data/all_female_scientists.json', 'w', encoding='utf-8'), ensure_ascii=False)
     # json.dump(load_all_qianren(), codecs.open('../data/all_qianren.json', 'w', encoding='utf-8'), ensure_ascii=False)
-    json.dump(load_5_wei(), codecs.open('../data/5_wei_analysis.json', 'w', encoding='utf-8'), ensure_ascii=False)
+    # json.dump(load_5_wei(), codecs.open('../data/5_wei_analysis.json', 'w', encoding='utf-8'), ensure_ascii=False)
