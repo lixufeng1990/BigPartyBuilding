@@ -13,43 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="getData.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sanzhangzhi/bin/getData.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="114" lean-forward="false" selection-start-line="18" selection-start-column="114" selection-end-line="18" selection-end-column="114" />
-              <folding>
-                <element signature="e#23#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_sanzhang.json" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sanzhangzhi/data/get_sanzhang.json">
+      <file leaf-file-name="five_wei.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rencai/bin/five_wei.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="load_csv.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sanzhangzhi/bin/load_csv.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sanzhang.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sanzhangzhi/data/sanzhang.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+              <caret line="0" column="67" lean-forward="false" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -195,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -202,6 +171,23 @@
             <path>
               <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
               <item name="BigPartyBuilding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigPartyBuilding" type="462c0819:PsiDirectoryNode" />
+              <item name="rencai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigPartyBuilding" type="462c0819:PsiDirectoryNode" />
+              <item name="rencai" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigPartyBuilding" type="462c0819:PsiDirectoryNode" />
+              <item name="rencai" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
@@ -229,13 +215,18 @@
               <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
               <item name="BigPartyBuilding" type="462c0819:PsiDirectoryNode" />
               <item name="zuzhi" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BigPartyBuilding" type="462c0819:PsiDirectoryNode" />
+              <item name="zuzhi" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,16 +379,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22068231" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2228145" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17222223" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3303671" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3303671" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -649,7 +639,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548037">
           <caret line="26097" column="1" lean-forward="false" selection-start-line="26097" selection-start-column="1" selection-end-line="26097" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +646,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -672,7 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3234">
           <caret line="155" column="8" lean-forward="false" selection-start-line="155" selection-start-column="8" selection-end-line="155" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -680,7 +667,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -688,7 +674,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -696,7 +681,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2961">
           <caret line="141" column="29" lean-forward="true" selection-start-line="141" selection-start-column="29" selection-end-line="141" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +688,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="10" lean-forward="false" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="861">
           <caret line="70" column="4" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -720,7 +702,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="151" lean-forward="false" selection-start-line="0" selection-start-column="144" selection-end-line="0" selection-end-column="151" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -728,7 +709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="1711" column="22" lean-forward="true" selection-start-line="1711" selection-start-column="22" selection-end-line="1711" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,17 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
           <caret line="274" column="32" lean-forward="true" selection-start-line="274" selection-start-column="32" selection-end-line="274" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#13#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rencai/bin/five_wei.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="67" lean-forward="false" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="44" column="34" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="126" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,6 +738,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
           <caret line="327" column="15" lean-forward="true" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sanzhangzhi/bin/load_csv.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -784,6 +759,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sanzhangzhi/data/get_sanzhang.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="65" lean-forward="false" selection-start-line="0" selection-start-column="65" selection-end-line="0" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sanzhangzhi/data/sanzhang.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -792,18 +775,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sanzhangzhi/bin/load_csv.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sanzhangzhi/data/get_sanzhang.json">
+    <entry file="file://$PROJECT_DIR$/rencai/bin/five_wei.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <caret line="0" column="67" lean-forward="false" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
           <folding />
         </state>
       </provider>
