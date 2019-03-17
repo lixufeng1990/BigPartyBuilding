@@ -1,0 +1,7184 @@
+{
+  "sex": {
+    "male": 9634,
+    "female": 401
+  },
+  "countries": [
+    [
+      "USA",
+      5525
+    ],
+    [
+      "Japan",
+      491
+    ],
+    [
+      "Canada",
+      349
+    ],
+    [
+      "UK",
+      330
+    ],
+    [
+      "Germany",
+      174
+    ],
+    [
+      "China",
+      169
+    ],
+    [
+      "Australia",
+      152
+    ],
+    [
+      "France",
+      136
+    ],
+    [
+      "Italy",
+      132
+    ],
+    [
+      "Switzerland",
+      91
+    ],
+    [
+      "Hong Kong",
+      91
+    ],
+    [
+      "India",
+      82
+    ],
+    [
+      "Netherlands",
+      70
+    ],
+    [
+      "Israel",
+      70
+    ],
+    [
+      "Sweden",
+      61
+    ],
+    [
+      "South Korea",
+      56
+    ],
+    [
+      "Mexico",
+      44
+    ],
+    [
+      "Singapore",
+      44
+    ],
+    [
+      "Belgium",
+      41
+    ],
+    [
+      "Spain",
+      40
+    ],
+    [
+      "Greece",
+      25
+    ],
+    [
+      "Brazil",
+      25
+    ],
+    [
+      "Austria",
+      24
+    ],
+    [
+      "Finland",
+      23
+    ],
+    [
+      "Ireland",
+      21
+    ],
+    [
+      "Denmark",
+      19
+    ],
+    [
+      "Turkey",
+      16
+    ],
+    [
+      "Portugal",
+      16
+    ],
+    [
+      "Hungary",
+      15
+    ],
+    [
+      "Norway",
+      14
+    ],
+    [
+      "Poland",
+      14
+    ],
+    [
+      "Pakistan",
+      14
+    ],
+    [
+      "Egypt",
+      9
+    ],
+    [
+      "Mali",
+      9
+    ],
+    [
+      "Bangladesh",
+      8
+    ],
+    [
+      "South Africa",
+      8
+    ],
+    [
+      "Russia",
+      7
+    ],
+    [
+      "New Zealand",
+      6
+    ],
+    [
+      "Czechia",
+      6
+    ],
+    [
+      "Taiwan",
+      4
+    ],
+    [
+      "Chile",
+      4
+    ],
+    [
+      "Iran",
+      4
+    ],
+    [
+      "Saudi Arabia",
+      3
+    ],
+    [
+      "Colombia",
+      3
+    ],
+    [
+      "Serbia",
+      3
+    ],
+    [
+      "Ukraine",
+      3
+    ],
+    [
+      "Croatia",
+      2
+    ],
+    [
+      "Slovenia",
+      2
+    ],
+    [
+      "Luxembourg",
+      2
+    ],
+    [
+      "Malaysia",
+      2
+    ],
+    [
+      "Liberia",
+      2
+    ],
+    [
+      "Lebanon",
+      2
+    ],
+    [
+      "Cyprus",
+      2
+    ],
+    [
+      "Argentina",
+      2
+    ],
+    [
+      "Iceland",
+      1
+    ],
+    [
+      "Romania",
+      1
+    ],
+    [
+      "Malta",
+      1
+    ],
+    [
+      "Sri Lanka",
+      1
+    ],
+    [
+      "United Arab Emirates",
+      1
+    ],
+    [
+      "Ghana",
+      1
+    ],
+    [
+      "Bulgaria",
+      1
+    ],
+    [
+      "Bhutan",
+      1
+    ],
+    [
+      "Jamaica",
+      1
+    ],
+    [
+      "Macedonia",
+      1
+    ],
+    [
+      "Czech Republic",
+      1
+    ],
+    [
+      "Macau",
+      1
+    ],
+    [
+      "Indonesia",
+      1
+    ],
+    [
+      "Jordan",
+      1
+    ],
+    [
+      "Nigeria",
+      1
+    ],
+    [
+      "Thailand",
+      1
+    ],
+    [
+      "Vietnam",
+      1
+    ],
+    [
+      "Montenegro",
+      1
+    ],
+    [
+      "Bosnia and Herzegovina",
+      1
+    ]
+  ],
+  "regions": [
+    [
+      "R6 -Western USA",
+      1953
+    ],
+    [
+      "R1 -Northeastern USA",
+      1561
+    ],
+    [
+      "R10 -Asia and Pacific",
+      1492
+    ],
+    [
+      "R8 -Europe, MEast, Africa",
+      1428
+    ],
+    [
+      "R2 -Eastern USA",
+      1002
+    ],
+    [
+      "R3 -Southeastern USA",
+      867
+    ],
+    [
+      "R4 -Central USA",
+      639
+    ],
+    [
+      "R5 -Southwestern USA",
+      638
+    ],
+    [
+      "R7 -Canada",
+      392
+    ],
+    [
+      "R9 -Latin America",
+      56
+    ]
+  ],
+  "orgs": [
+    [
+      "IBM",
+      222
+    ],
+    [
+      "Massachusetts Institute of Technology",
+      134
+    ],
+    [
+      "Stanford University",
+      109
+    ],
+    [
+      "University of California, Berkeley",
+      91
+    ],
+    [
+      "University of Michigan",
+      91
+    ],
+    [
+      "Bell Labs",
+      84
+    ],
+    [
+      "University of Illinois at Urbana–Champaign",
+      83
+    ],
+    [
+      "University of California, Los Angeles",
+      79
+    ],
+    [
+      "Georgia Institute of Technology",
+      74
+    ],
+    [
+      "Carnegie Mellon University",
+      70
+    ],
+    [
+      "University of Southern California",
+      67
+    ],
+    [
+      "University of Texas at Austin",
+      65
+    ],
+    [
+      "AT&T",
+      65
+    ],
+    [
+      "University of California, San Diego",
+      64
+    ],
+    [
+      "University of Washington",
+      58
+    ],
+    [
+      "Purdue University",
+      56
+    ],
+    [
+      "Intel",
+      55
+    ],
+    [
+      "Pennsylvania State University",
+      51
+    ],
+    [
+      "University of Pennsylvania",
+      51
+    ],
+    [
+      "Princeton University",
+      51
+    ],
+    [
+      "University of Tokyo",
+      50
+    ],
+    [
+      "Harvard University",
+      50
+    ],
+    [
+      "University of Minnesota",
+      49
+    ],
+    [
+      "University of Maryland, College Park",
+      48
+    ],
+    [
+      "National Institute of Standards and Technology",
+      46
+    ],
+    [
+      "General Electric",
+      46
+    ],
+    [
+      "Ohio State University",
+      45
+    ],
+    [
+      "University of Wisconsin-Madison",
+      44
+    ],
+    [
+      "University of Toronto",
+      43
+    ],
+    [
+      "Microsoft",
+      43
+    ],
+    [
+      "University of California, Santa Barbara",
+      42
+    ],
+    [
+      "Texas A&M University",
+      42
+    ],
+    [
+      "United States Naval Research Laboratory",
+      41
+    ],
+    [
+      "Johns Hopkins University",
+      40
+    ],
+    [
+      "North Carolina State University",
+      40
+    ],
+    [
+      "Texas Instruments",
+      38
+    ],
+    [
+      "National Taiwan University",
+      38
+    ],
+    [
+      "University of Waterloo",
+      37
+    ],
+    [
+      "Rensselaer Polytechnic Institute",
+      36
+    ],
+    [
+      "Centre national de la recherche scientifique",
+      36
+    ],
+    [
+      "École Polytechnique Fédérale de Lausanne",
+      36
+    ],
+    [
+      "California Institute of Technology",
+      35
+    ],
+    [
+      "Tohoku University",
+      34
+    ],
+    [
+      "Cornell University",
+      34
+    ],
+    [
+      "Hitachi",
+      34
+    ],
+    [
+      "Jet Propulsion Laboratory",
+      34
+    ],
+    [
+      "University of California, Irvine",
+      33
+    ],
+    [
+      "Duke University",
+      33
+    ],
+    [
+      "Technion – Israel Institute of Technology",
+      33
+    ],
+    [
+      "Tokyo Institute of Technology",
+      32
+    ],
+    [
+      "Arizona State University",
+      32
+    ],
+    [
+      "Osaka University",
+      31
+    ],
+    [
+      "Columbia University",
+      31
+    ],
+    [
+      "Hewlett-Packard",
+      31
+    ],
+    [
+      "University of Florida",
+      31
+    ],
+    [
+      "Chinese Academy of Sciences",
+      31
+    ],
+    [
+      "ETH Zurich",
+      29
+    ],
+    [
+      "Iowa State University",
+      28
+    ],
+    [
+      "Virginia Tech",
+      27
+    ],
+    [
+      "Rutgers University",
+      27
+    ],
+    [
+      "Toshiba",
+      27
+    ],
+    [
+      "AT&T Labs",
+      27
+    ],
+    [
+      "Tsinghua University",
+      27
+    ],
+    [
+      "National Chiao Tung University",
+      27
+    ],
+    [
+      "University of California, Davis",
+      27
+    ],
+    [
+      "Air Force Research Laboratory",
+      26
+    ],
+    [
+      "University of Colorado Boulder",
+      26
+    ],
+    [
+      "Northwestern University",
+      26
+    ],
+    [
+      "University of Notre Dame",
+      26
+    ],
+    [
+      "National Institutes of Health",
+      26
+    ],
+    [
+      "University of Cambridge",
+      25
+    ],
+    [
+      "Imperial College London",
+      25
+    ],
+    [
+      "Sandia National Laboratories",
+      25
+    ],
+    [
+      "Michigan State University",
+      24
+    ],
+    [
+      "University of Massachusetts Amherst",
+      24
+    ],
+    [
+      "Hong Kong University of Science and Technology",
+      24
+    ],
+    [
+      "University of Pittsburgh",
+      24
+    ],
+    [
+      "Motorola",
+      24
+    ],
+    [
+      "Alcatel-Lucent",
+      23
+    ],
+    [
+      "City University of Hong Kong",
+      23
+    ],
+    [
+      "Boston University",
+      23
+    ],
+    [
+      "University of British Columbia",
+      23
+    ],
+    [
+      "Rice University",
+      22
+    ],
+    [
+      "University of Central Florida",
+      22
+    ],
+    [
+      "Tel Aviv University",
+      22
+    ],
+    [
+      "Delft University of Technology",
+      22
+    ],
+    [
+      "Kyoto University",
+      22
+    ],
+    [
+      "University of Virginia",
+      21
+    ],
+    [
+      "Washington University in St. Louis",
+      21
+    ],
+    [
+      "Auburn University",
+      21
+    ],
+    [
+      "NEC",
+      21
+    ],
+    [
+      "Instituto Politécnico Nacional",
+      21
+    ],
+    [
+      "University of Arizona",
+      21
+    ],
+    [
+      "University of Rochester",
+      21
+    ],
+    [
+      "The Chinese University of Hong Kong",
+      21
+    ],
+    [
+      "Case Western Reserve University",
+      21
+    ],
+    [
+      "University of New South Wales",
+      20
+    ],
+    [
+      "University of Utah",
+      20
+    ],
+    [
+      "Vanderbilt University",
+      20
+    ],
+    [
+      "McGill University",
+      19
+    ],
+    [
+      "University of Sydney",
+      19
+    ],
+    [
+      "Syracuse University",
+      19
+    ],
+    [
+      "Waseda University",
+      19
+    ],
+    [
+      "Brown University",
+      18
+    ],
+    [
+      "University of Texas at Dallas",
+      18
+    ],
+    [
+      "Colorado State University",
+      18
+    ],
+    [
+      "Chalmers University of Technology",
+      18
+    ],
+    [
+      "Raytheon",
+      18
+    ],
+    [
+      "University of Connecticut",
+      18
+    ],
+    [
+      "KAIST",
+      18
+    ],
+    [
+      "Drexel University",
+      18
+    ],
+    [
+      "National University of Singapore",
+      17
+    ],
+    [
+      "New York University",
+      17
+    ],
+    [
+      "University of California",
+      16
+    ],
+    [
+      "Lawrence Berkeley National Laboratory",
+      16
+    ],
+    [
+      "University of New Mexico",
+      16
+    ],
+    [
+      "Max Planck Society",
+      16
+    ],
+    [
+      "George Mason University",
+      16
+    ],
+    [
+      "University of Melbourne",
+      16
+    ],
+    [
+      "Westinghouse Electric",
+      16
+    ],
+    [
+      "University of Calgary",
+      15
+    ],
+    [
+      "Mayo Clinic",
+      15
+    ],
+    [
+      "Yale University",
+      15
+    ],
+    [
+      "University of Ottawa",
+      15
+    ],
+    [
+      "Qualcomm",
+      15
+    ],
+    [
+      "Northeastern University",
+      14
+    ],
+    [
+      "University of Iowa",
+      14
+    ],
+    [
+      "Polytechnic University of Turin",
+      14
+    ],
+    [
+      "McMaster University",
+      14
+    ],
+    [
+      "University of Illinois at Chicago",
+      14
+    ],
+    [
+      "Los Alamos National Laboratory",
+      14
+    ],
+    [
+      "IMEC",
+      14
+    ],
+    [
+      "National Cheng Kung University",
+      14
+    ],
+    [
+      "University of Hong Kong",
+      14
+    ],
+    [
+      "University of Chicago",
+      14
+    ],
+    [
+      "Katholieke Universiteit Leuven",
+      14
+    ],
+    [
+      "University of Texas at Arlington",
+      13
+    ],
+    [
+      "Technische Universität München",
+      13
+    ],
+    [
+      "Seoul National University",
+      13
+    ],
+    [
+      "Lawrence Livermore National Laboratory",
+      13
+    ],
+    [
+      "Oregon State University",
+      13
+    ],
+    [
+      "University of Oxford",
+      13
+    ],
+    [
+      "University of California, San Francisco",
+      13
+    ],
+    [
+      "National Tsing Hua University",
+      13
+    ],
+    [
+      "Nagoya University",
+      13
+    ],
+    [
+      "University of Kentucky",
+      12
+    ],
+    [
+      "King's College London",
+      12
+    ],
+    [
+      "University of Tennessee",
+      12
+    ],
+    [
+      "University of Bristol",
+      12
+    ],
+    [
+      "Illinois Institute of Technology",
+      12
+    ],
+    [
+      "Fraunhofer Society",
+      12
+    ],
+    [
+      "RWTH Aachen University",
+      12
+    ],
+    [
+      "Clemson University",
+      12
+    ],
+    [
+      "University of North Carolina at Chapel Hill",
+      12
+    ],
+    [
+      "School of Electrical and Electronic Engineering, University of Manchester",
+      12
+    ],
+    [
+      "University of Padua",
+      12
+    ],
+    [
+      "École Polytechnique de Montréal",
+      12
+    ],
+    [
+      "SRI International",
+      12
+    ],
+    [
+      "Nanyang Technological University",
+      12
+    ],
+    [
+      "Keio University",
+      12
+    ],
+    [
+      "Fujitsu",
+      12
+    ],
+    [
+      "Eindhoven University of Technology",
+      11
+    ],
+    [
+      "National Research Council",
+      11
+    ],
+    [
+      "University of Manitoba",
+      11
+    ],
+    [
+      "Rockwell Automation",
+      11
+    ],
+    [
+      "University of Glasgow",
+      11
+    ],
+    [
+      "Queen's University",
+      11
+    ],
+    [
+      "Goddard Space Flight Center",
+      11
+    ],
+    [
+      "Stony Brook University",
+      11
+    ],
+    [
+      "Université catholique de Louvain",
+      11
+    ],
+    [
+      "Australian National University",
+      11
+    ],
+    [
+      "Naval Postgraduate School",
+      11
+    ],
+    [
+      "University of Edinburgh",
+      11
+    ],
+    [
+      "Missouri University of Science and Technology",
+      11
+    ],
+    [
+      "Royal Institute of Technology",
+      11
+    ],
+    [
+      "Electric Power Research Institute",
+      10
+    ],
+    [
+      "New Jersey Institute of Technology",
+      10
+    ],
+    [
+      "French Institute for Research in Computer Science and Automation",
+      10
+    ],
+    [
+      "University of South Florida",
+      10
+    ],
+    [
+      "TRW Inc.",
+      10
+    ],
+    [
+      "Lund University",
+      10
+    ],
+    [
+      "University of Bologna",
+      10
+    ],
+    [
+      "University of California, Riverside",
+      10
+    ],
+    [
+      "Sapienza University of Rome",
+      10
+    ],
+    [
+      "American Electric Power",
+      10
+    ],
+    [
+      "University of Missouri",
+      10
+    ],
+    [
+      "Ruhr University Bochum",
+      10
+    ],
+    [
+      "University of Erlangen-Nuremberg",
+      10
+    ],
+    [
+      "National Technical University of Athens",
+      10
+    ],
+    [
+      "State University of New York System",
+      10
+    ],
+    [
+      "University at Buffalo",
+      10
+    ],
+    [
+      "University of Nebraska–Lincoln",
+      10
+    ],
+    [
+      "University of California, Santa Cruz",
+      10
+    ],
+    [
+      "University of Tsukuba",
+      10
+    ],
+    [
+      "Hiroshima University",
+      10
+    ],
+    [
+      "University of Southampton",
+      9
+    ],
+    [
+      "National Oceanic and Atmospheric Administration",
+      9
+    ],
+    [
+      "Bonneville Power Administration",
+      9
+    ],
+    [
+      "University College London",
+      9
+    ],
+    [
+      "HRL Laboratories",
+      9
+    ],
+    [
+      "Lehigh University",
+      9
+    ],
+    [
+      "Cleveland Clinic",
+      9
+    ],
+    [
+      "Philips",
+      9
+    ],
+    [
+      "University of Pisa",
+      9
+    ],
+    [
+      "University of Kansas",
+      9
+    ],
+    [
+      "Stevens Institute of Technology",
+      9
+    ],
+    [
+      "Siemens",
+      9
+    ],
+    [
+      "University of Alberta",
+      9
+    ],
+    [
+      "University of Pavia",
+      9
+    ],
+    [
+      "Simon Fraser University",
+      9
+    ],
+    [
+      "George Washington University",
+      9
+    ],
+    [
+      "University of Oklahoma",
+      9
+    ],
+    [
+      "Indian Institute of Science",
+      9
+    ],
+    [
+      "Karlsruhe Institute of Technology",
+      9
+    ],
+    [
+      "Texas Tech University",
+      9
+    ],
+    [
+      "Nippon Telegraph and Telephone",
+      9
+    ],
+    [
+      "University of Western Ontario",
+      8
+    ],
+    [
+      "MIT",
+      8
+    ],
+    [
+      "University of Cincinnati",
+      8
+    ],
+    [
+      "Concordia University",
+      8
+    ],
+    [
+      "University of Delaware",
+      8
+    ],
+    [
+      "Bilkent University",
+      8
+    ],
+    [
+      "General Motors",
+      8
+    ],
+    [
+      "Indian Statistical Institute",
+      8
+    ],
+    [
+      "Mitre Corporation",
+      8
+    ],
+    [
+      "Honeywell",
+      8
+    ],
+    [
+      "Technical University of Berlin",
+      8
+    ],
+    [
+      "Washington State University",
+      8
+    ],
+    [
+      "University of South Carolina",
+      8
+    ],
+    [
+      "Hydro One",
+      8
+    ],
+    [
+      "Commonwealth Scientific and Industrial Research Organisation",
+      8
+    ],
+    [
+      "Southeast University",
+      8
+    ],
+    [
+      "Louisiana State University",
+      8
+    ],
+    [
+      "University of Electronic Science and Technology of China",
+      8
+    ],
+    [
+      "Ford Motor Company",
+      8
+    ],
+    [
+      "Queen Mary University of London",
+      8
+    ],
+    [
+      "United States Army Research Laboratory",
+      8
+    ],
+    [
+      "Robotics Institute",
+      8
+    ],
+    [
+      "Peking University",
+      8
+    ],
+    [
+      "Aalto University",
+      8
+    ],
+    [
+      "Chiba University",
+      8
+    ],
+    [
+      "University of Queensland",
+      7
+    ],
+    [
+      "Carleton University",
+      7
+    ],
+    [
+      "University of Surrey",
+      7
+    ],
+    [
+      "Broadcom",
+      7
+    ],
+    [
+      "Colorado School of Mines",
+      7
+    ],
+    [
+      "University of Houston",
+      7
+    ],
+    [
+      "Central Research Institute of Electric Power Industry",
+      7
+    ],
+    [
+      "DuPont",
+      7
+    ],
+    [
+      "University of Nottingham",
+      7
+    ],
+    [
+      "Tampere University of Technology",
+      7
+    ],
+    [
+      "University of Western Australia",
+      7
+    ],
+    [
+      "University of Maryland, Baltimore",
+      7
+    ],
+    [
+      "Budapest University of Technology and Economics",
+      7
+    ],
+    [
+      "Agilent Technologies",
+      7
+    ],
+    [
+      "University of Maryland",
+      7
+    ],
+    [
+      "University of Trento",
+      7
+    ],
+    [
+      "Brigham Young University",
+      7
+    ],
+    [
+      "Polytechnic Institute of New York University",
+      7
+    ],
+    [
+      "Aalborg University",
+      7
+    ],
+    [
+      "CERN",
+      7
+    ],
+    [
+      "Worcester Polytechnic Institute",
+      7
+    ],
+    [
+      "University of York",
+      7
+    ],
+    [
+      "University of Seville",
+      7
+    ],
+    [
+      "Hong Kong Polytechnic University",
+      7
+    ],
+    [
+      "Portland State University",
+      7
+    ],
+    [
+      "West Virginia University",
+      7
+    ],
+    [
+      "University of Strathclyde",
+      7
+    ],
+    [
+      "Vienna University of Technology",
+      7
+    ],
+    [
+      "Tokai University",
+      7
+    ],
+    [
+      "Mitsubishi Electric",
+      7
+    ],
+    [
+      "Zhejiang University",
+      7
+    ],
+    [
+      "National Renewable Energy Laboratory",
+      7
+    ],
+    [
+      "Rockwell International",
+      7
+    ],
+    [
+      "Agency for Science, Technology and Research",
+      7
+    ],
+    [
+      "TSMC",
+      7
+    ],
+    [
+      "Wayne State University",
+      6
+    ],
+    [
+      "Icahn School of Medicine at Mount Sinai",
+      6
+    ],
+    [
+      "Beckman Institute for Advanced Science and Technology",
+      6
+    ],
+    [
+      "Sarnoff Corporation",
+      6
+    ],
+    [
+      "University of Victoria",
+      6
+    ],
+    [
+      "Technical University of Denmark",
+      6
+    ],
+    [
+      "University of Catania",
+      6
+    ],
+    [
+      "University of Sheffield",
+      6
+    ],
+    [
+      "Norwegian University of Science and Technology",
+      6
+    ],
+    [
+      "DARPA",
+      6
+    ],
+    [
+      "University of Siena",
+      6
+    ],
+    [
+      "Hydro-Québec",
+      6
+    ],
+    [
+      "Ames Research Center",
+      6
+    ],
+    [
+      "Centers for Disease Control and Prevention",
+      6
+    ],
+    [
+      "Corning Inc.",
+      6
+    ],
+    [
+      "Georgia Tech Research Institute",
+      6
+    ],
+    [
+      "ASTRON",
+      6
+    ],
+    [
+      "École Normale Supérieure",
+      6
+    ],
+    [
+      "University of Manchester",
+      6
+    ],
+    [
+      "University of Mississippi",
+      6
+    ],
+    [
+      "University of Leeds",
+      6
+    ],
+    [
+      "Shanghai Jiao Tong University",
+      6
+    ],
+    [
+      "Argonne National Laboratory",
+      6
+    ],
+    [
+      "Federal University of Rio de Janeiro",
+      6
+    ],
+    [
+      "Huawei",
+      6
+    ],
+    [
+      "Telcordia Technologies",
+      6
+    ],
+    [
+      "Cardiff University",
+      6
+    ],
+    [
+      "Tulane University",
+      6
+    ],
+    [
+      "Information Technology University",
+      6
+    ],
+    [
+      "Brookhaven National Laboratory",
+      6
+    ],
+    [
+      "Indian Institute of Technology Kanpur",
+      6
+    ],
+    [
+      "University of Stuttgart",
+      6
+    ],
+    [
+      "Queen's University Belfast",
+      6
+    ],
+    [
+      "University of Rhode Island",
+      6
+    ],
+    [
+      "Old Dominion University",
+      6
+    ],
+    [
+      "Nara Institute of Science and Technology",
+      6
+    ],
+    [
+      "University of Maryland, Baltimore County",
+      5
+    ],
+    [
+      "University of Texas Southwestern Medical Center",
+      5
+    ],
+    [
+      "Indian Institute of Technology Bombay",
+      5
+    ],
+    [
+      "Meijo University",
+      5
+    ],
+    [
+      "University of Warwick",
+      5
+    ],
+    [
+      "Newcastle University",
+      5
+    ],
+    [
+      "Alstom",
+      5
+    ],
+    [
+      "University of Copenhagen",
+      5
+    ],
+    [
+      "University of Arkansas",
+      5
+    ],
+    [
+      "Lancaster University",
+      5
+    ],
+    [
+      "European Space Research and Technology Centre",
+      5
+    ],
+    [
+      "Ghent University",
+      5
+    ],
+    [
+      "Kaiserslautern University of Technology",
+      5
+    ],
+    [
+      "Florida State University",
+      5
+    ],
+    [
+      "National Science Foundation",
+      5
+    ],
+    [
+      "Oregon Health & Science University",
+      5
+    ],
+    [
+      "Fairchild Semiconductor International, Inc.",
+      5
+    ],
+    [
+      "Ludwig Maximilian University of Munich",
+      5
+    ],
+    [
+      "Indian Institute of Technology Kharagpur",
+      5
+    ],
+    [
+      "National University of Ireland, Galway",
+      5
+    ],
+    [
+      "Macquarie University",
+      5
+    ],
+    [
+      "Wright State University",
+      5
+    ],
+    [
+      "State University of Campinas",
+      5
+    ],
+    [
+      "University College Dublin",
+      5
+    ],
+    [
+      "Polytechnic University of Catalonia",
+      5
+    ],
+    [
+      "University of Macau",
+      5
+    ],
+    [
+      "National Chung Hsing University",
+      5
+    ],
+    [
+      "National Central University",
+      5
+    ],
+    [
+      "Xerox",
+      5
+    ],
+    [
+      "Marquette University",
+      5
+    ],
+    [
+      "Vrije Universiteit Brussel",
+      5
+    ],
+    [
+      "EMC Corporation",
+      5
+    ],
+    [
+      "Boston Children's Hospital",
+      5
+    ],
+    [
+      "Kansas State University",
+      5
+    ],
+    [
+      "ABB Ltd",
+      5
+    ],
+    [
+      "Chuo University",
+      5
+    ],
+    [
+      "Oak Ridge National Laboratory",
+      5
+    ],
+    [
+      "University of Hawaii",
+      5
+    ],
+    [
+      "Warsaw University of Technology",
+      5
+    ],
+    [
+      "Weizmann Institute of Science",
+      5
+    ],
+    [
+      "Mitsubishi",
+      5
+    ],
+    [
+      "Tokyo Denki University",
+      5
+    ],
+    [
+      "National and Kapodistrian University of Athens",
+      5
+    ],
+    [
+      "Indian Institute of Technology Delhi",
+      5
+    ],
+    [
+      "Linköping University",
+      5
+    ],
+    [
+      "Temple University",
+      5
+    ],
+    [
+      "Air Force Institute of Technology",
+      5
+    ],
+    [
+      "Eastman Kodak Company",
+      5
+    ],
+    [
+      "Hokkaido University",
+      5
+    ],
+    [
+      "Xi'an Jiaotong University",
+      5
+    ],
+    [
+      "Samsung",
+      5
+    ],
+    [
+      "Delphi Automotive",
+      5
+    ],
+    [
+      "Celera Corporation",
+      5
+    ],
+    [
+      "Wellcome Trust",
+      5
+    ],
+    [
+      "National Institute of Advanced Industrial Science and Technology",
+      5
+    ],
+    [
+      "Freescale Semiconductor",
+      4
+    ],
+    [
+      "Environmental Research Institute of Michigan",
+      4
+    ],
+    [
+      "University of Texas at San Antonio",
+      4
+    ],
+    [
+      "City University of New York",
+      4
+    ],
+    [
+      "École de technologie supérieure",
+      4
+    ],
+    [
+      "Merck & Co.",
+      4
+    ],
+    [
+      "Schweitzer Engineering Laboratories",
+      4
+    ],
+    [
+      "University of Louisville",
+      4
+    ],
+    [
+      "Renesas Electronics",
+      4
+    ],
+    [
+      "Kogakuin University",
+      4
+    ],
+    [
+      "Instituto Superior Técnico",
+      4
+    ],
+    [
+      "Aristotle University of Thessaloniki",
+      4
+    ],
+    [
+      "Virginia Commonwealth University",
+      4
+    ],
+    [
+      "Software Engineering Institute",
+      4
+    ],
+    [
+      "University of Birmingham",
+      4
+    ],
+    [
+      "BBN Technologies",
+      4
+    ],
+    [
+      "Science Applications International Corporation",
+      4
+    ],
+    [
+      "University of Louisiana at Lafayette",
+      4
+    ],
+    [
+      "Uppsala University",
+      4
+    ],
+    [
+      "University of Saskatchewan",
+      4
+    ],
+    [
+      "Graz University of Technology",
+      4
+    ],
+    [
+      "University of Hamburg",
+      4
+    ],
+    [
+      "Baylor University",
+      4
+    ],
+    [
+      "University of Naples Federico II",
+      4
+    ],
+    [
+      "Queensland University of Technology",
+      4
+    ],
+    [
+      "New Mexico State University",
+      4
+    ],
+    [
+      "Academia Sinica",
+      4
+    ],
+    [
+      "Santa Clara University",
+      4
+    ],
+    [
+      "National Taiwan University of Science and Technology",
+      4
+    ],
+    [
+      "Sophia University",
+      4
+    ],
+    [
+      "IBM Research",
+      4
+    ],
+    [
+      "Agricultural Research Service",
+      4
+    ],
+    [
+      "University of Liverpool",
+      4
+    ],
+    [
+      "GE Energy Infrastructure",
+      4
+    ],
+    [
+      "French Institute of Health and Medical Research",
+      4
+    ],
+    [
+      "University of Texas Health Science Center at San Antonio",
+      4
+    ],
+    [
+      "Clarkson University",
+      4
+    ],
+    [
+      "Mitsubishi Electric Research Laboratories",
+      4
+    ],
+    [
+      "University of Leicester",
+      4
+    ],
+    [
+      "Hebrew University of Jerusalem",
+      4
+    ],
+    [
+      "Oklahoma State University–Stillwater",
+      4
+    ],
+    [
+      "National Institute of Information and Communications Technology",
+      4
+    ],
+    [
+      "Mayo Medical School",
+      4
+    ],
+    [
+      "Binghamton University",
+      4
+    ],
+    [
+      "Research Triangle Park",
+      4
+    ],
+    [
+      "University of Illinois",
+      4
+    ],
+    [
+      "Thayer School of Engineering",
+      4
+    ],
+    [
+      "University of Paris",
+      4
+    ],
+    [
+      "Emory University",
+      4
+    ],
+    [
+      "University of Lausanne",
+      4
+    ],
+    [
+      "University of Newcastle",
+      4
+    ],
+    [
+      "Analog Devices",
+      4
+    ],
+    [
+      "Harbin Institute of Technology",
+      4
+    ],
+    [
+      "Leibniz University of Hanover",
+      4
+    ],
+    [
+      "Technische Universität Darmstadt",
+      4
+    ],
+    [
+      "Kobe University",
+      4
+    ],
+    [
+      "Tokyo Metropolitan University",
+      4
+    ],
+    [
+      "Baylor College of Medicine",
+      4
+    ],
+    [
+      "Nagasaki University",
+      4
+    ],
+    [
+      "University of Twente",
+      4
+    ],
+    [
+      "Helsinki University of Technology",
+      4
+    ],
+    [
+      "University of Electro-Communications",
+      4
+    ],
+    [
+      "Delta Air Lines",
+      4
+    ],
+    [
+      "Spanish National Research Council",
+      4
+    ],
+    [
+      "Yokohama National University",
+      4
+    ],
+    [
+      "Indian Institute of Technology Madras",
+      4
+    ],
+    [
+      "Fudan University",
+      4
+    ],
+    [
+      "Institute for Advanced Study",
+      4
+    ],
+    [
+      "Kanazawa Institute of Technology",
+      4
+    ],
+    [
+      "National Archives and Records Administration",
+      4
+    ],
+    [
+      "Niigata University",
+      4
+    ],
+    [
+      "Korea University",
+      4
+    ],
+    [
+      "University of North Texas",
+      4
+    ],
+    [
+      "Quanta Technology",
+      4
+    ],
+    [
+      "Toyohashi University of Technology",
+      4
+    ],
+    [
+      "Indiana University – Purdue University Indianapolis",
+      3
+    ],
+    [
+      "Cisco Systems, Inc.",
+      3
+    ],
+    [
+      "Autonomous University of Barcelona",
+      3
+    ],
+    [
+      "Cairo University",
+      3
+    ],
+    [
+      "University of Tokushima",
+      3
+    ],
+    [
+      "Koç University",
+      3
+    ],
+    [
+      "Aichi Institute of Technology",
+      3
+    ],
+    [
+      "Kumamoto University",
+      3
+    ],
+    [
+      "Technical University of Madrid",
+      3
+    ],
+    [
+      "University of Hawaii at Manoa",
+      3
+    ],
+    [
+      "University of Colorado Colorado Springs",
+      3
+    ],
+    [
+      "Doshisha University",
+      3
+    ],
+    [
+      "College of the Atlantic",
+      3
+    ],
+    [
+      "Ritsumeikan University",
+      3
+    ],
+    [
+      "Monash University",
+      3
+    ],
+    [
+      "Joint Global Change Research Institute",
+      3
+    ],
+    [
+      "Brunel University London",
+      3
+    ],
+    [
+      "International Monetary Fund",
+      3
+    ],
+    [
+      "University of Nevada, Reno",
+      3
+    ],
+    [
+      "European Centre for Medium-Range Weather Forecasts",
+      3
+    ],
+    [
+      "RAND Corporation",
+      3
+    ],
+    [
+      "Laval University",
+      3
+    ],
+    [
+      "University of Nevada, Las Vegas",
+      3
+    ],
+    [
+      "Cedars-Sinai Medical Center",
+      3
+    ],
+    [
+      "University of Konstanz",
+      3
+    ],
+    [
+      "Durham University",
+      3
+    ],
+    [
+      "Microsoft Research",
+      3
+    ],
+    [
+      "Institute for Defense Analyses",
+      3
+    ],
+    [
+      "Pfizer",
+      3
+    ],
+    [
+      "Poznań University of Technology",
+      3
+    ],
+    [
+      "Hungarian Academy of Sciences",
+      3
+    ],
+    [
+      "University of Wisconsin–Milwaukee",
+      3
+    ],
+    [
+      "Ericsson",
+      3
+    ],
+    [
+      "RMIT University",
+      3
+    ],
+    [
+      "Leonard M. Miller School of Medicine",
+      3
+    ],
+    [
+      "HP Labs",
+      3
+    ],
+    [
+      "Yahoo!",
+      3
+    ],
+    [
+      "University of Parma",
+      3
+    ],
+    [
+      "Trinity College",
+      3
+    ],
+    [
+      "National Museum of Natural History",
+      3
+    ],
+    [
+      "M/A-COM Technology Solutions",
+      3
+    ],
+    [
+      "Université libre de Bruxelles",
+      3
+    ],
+    [
+      "Canada Centre for Remote Sensing",
+      3
+    ],
+    [
+      "Synopsys",
+      3
+    ],
+    [
+      "Analysis Group",
+      3
+    ],
+    [
+      "University of Florence",
+      3
+    ],
+    [
+      "University of Perugia",
+      3
+    ],
+    [
+      "Northrop Corporation",
+      3
+    ],
+    [
+      "York University",
+      3
+    ],
+    [
+      "Idaho State University",
+      3
+    ],
+    [
+      "IBM Almaden Research Center",
+      3
+    ],
+    [
+      "Tata Institute of Fundamental Research",
+      3
+    ],
+    [
+      "Applied Materials",
+      3
+    ],
+    [
+      "Yuan Ze University",
+      3
+    ],
+    [
+      "Seagate Technology",
+      3
+    ],
+    [
+      "Genentech",
+      3
+    ],
+    [
+      "Wuhan University",
+      3
+    ],
+    [
+      "Florida International University",
+      3
+    ],
+    [
+      "University of Science and Technology Beijing",
+      3
+    ],
+    [
+      "University of Wyoming",
+      3
+    ],
+    [
+      "Pohang University of Science and Technology",
+      3
+    ],
+    [
+      "Aix-Marseille University",
+      3
+    ],
+    [
+      "NXP Semiconductors",
+      3
+    ],
+    [
+      "University of Bath",
+      3
+    ],
+    [
+      "Langley Research Center",
+      3
+    ],
+    [
+      "Litton Industries",
+      3
+    ],
+    [
+      "Georgia State University",
+      3
+    ],
+    [
+      "Institute for Telecommunication Sciences",
+      3
+    ],
+    [
+      "Allis-Chalmers Corporation",
+      3
+    ],
+    [
+      "University of Sannio",
+      3
+    ],
+    [
+      "University of Memphis",
+      3
+    ],
+    [
+      "The Aerospace Corporation",
+      3
+    ],
+    [
+      "University of Lisbon",
+      3
+    ],
+    [
+      "United States Geological Survey",
+      3
+    ],
+    [
+      "Infinera",
+      3
+    ],
+    [
+      "The Graduate Center, CUNY",
+      3
+    ],
+    [
+      "COMSAT",
+      3
+    ],
+    [
+      "Royal Dutch Shell",
+      3
+    ],
+    [
+      "Institut Eurécom",
+      3
+    ],
+    [
+      "INESC-ID",
+      3
+    ],
+    [
+      "Google",
+      3
+    ],
+    [
+      "Alexandria University",
+      3
+    ],
+    [
+      "University of Idaho",
+      3
+    ],
+    [
+      "Office of Naval Research",
+      3
+    ],
+    [
+      "Defence Science and Technology Organization",
+      3
+    ],
+    [
+      "Dartmouth College",
+      3
+    ],
+    [
+      "University of Porto",
+      3
+    ],
+    [
+      "Fred Hutchinson Cancer Research Center",
+      3
+    ],
+    [
+      "Sharif University of Technology",
+      3
+    ],
+    [
+      "Technical University of Crete",
+      3
+    ],
+    [
+      "Novartis",
+      3
+    ],
+    [
+      "University of Alabama at Birmingham",
+      3
+    ],
+    [
+      "University of Adelaide",
+      3
+    ],
+    [
+      "Rochester Institute of Technology",
+      3
+    ],
+    [
+      "ASSIA",
+      3
+    ],
+    [
+      "Broad Institute",
+      3
+    ],
+    [
+      "Mississippi State University",
+      3
+    ],
+    [
+      "University of Amsterdam",
+      3
+    ],
+    [
+      "Swinburne University of Technology",
+      3
+    ],
+    [
+      "Ryerson University",
+      3
+    ],
+    [
+      "University of Essex",
+      3
+    ],
+    [
+      "University of Illinois at Urbana-Champaign",
+      3
+    ],
+    [
+      "University of Pretoria",
+      3
+    ],
+    [
+      "University of Toyama",
+      3
+    ],
+    [
+      "Silver Spring Networks",
+      3
+    ],
+    [
+      "Pacific Northwest National Laboratory",
+      3
+    ],
+    [
+      "Heriot-Watt University",
+      3
+    ],
+    [
+      "James Cook University",
+      3
+    ],
+    [
+      "Tohoku Institute of Technology",
+      3
+    ],
+    [
+      "CGI Group",
+      3
+    ],
+    [
+      "Nagoya Institute of Technology",
+      3
+    ],
+    [
+      "National Sun Yat-sen University",
+      3
+    ],
+    [
+      "Children's Hospital of Philadelphia",
+      3
+    ],
+    [
+      "Nihon University",
+      3
+    ],
+    [
+      "LSI Corporation",
+      3
+    ],
+    [
+      "Medical College of Wisconsin",
+      3
+    ],
+    [
+      "Medical Research Council",
+      3
+    ],
+    [
+      "Kyoto Institute of Technology",
+      3
+    ],
+    [
+      "École Polytechnique",
+      3
+    ],
+    [
+      "Eaton Corporation",
+      3
+    ],
+    [
+      "University of Salford",
+      3
+    ],
+    [
+      "University of Kiel",
+      3
+    ],
+    [
+      "Howard Hughes Medical Institute",
+      3
+    ],
+    [
+      "University of Dayton",
+      3
+    ],
+    [
+      "Electronics Research Center",
+      3
+    ],
+    [
+      "Advanced Micro Devices",
+      3
+    ],
+    [
+      "University of Toledo",
+      3
+    ],
+    [
+      "Pacific Gas and Electric Company",
+      3
+    ],
+    [
+      "Birkbeck, University of London",
+      3
+    ],
+    [
+      "Tufts University",
+      3
+    ],
+    [
+      "Okayama University",
+      3
+    ],
+    [
+      "University College Cork",
+      3
+    ],
+    [
+      "Nagaoka University of Technology",
+      3
+    ],
+    [
+      "Hosei University",
+      3
+    ],
+    [
+      "United States Air Force Academy",
+      3
+    ],
+    [
+      "American Society for Engineering Education",
+      3
+    ],
+    [
+      "Yonsei University",
+      3
+    ],
+    [
+      "United States Department of Veterans Affairs",
+      3
+    ],
+    [
+      "The Catholic University of America",
+      3
+    ],
+    [
+      "Kyushu Institute of Technology",
+      3
+    ],
+    [
+      "Institute of High Energy Physics",
+      3
+    ],
+    [
+      "University of Massachusetts Medical School",
+      2
+    ],
+    [
+      "Feinberg School of Medicine",
+      2
+    ],
+    [
+      "University of Texas",
+      2
+    ],
+    [
+      "Tokyo University of Science",
+      2
+    ],
+    [
+      "Kyushu University",
+      2
+    ],
+    [
+      "Intelsat",
+      2
+    ],
+    [
+      "School of Electronics and Computer Science, University of Southampton",
+      2
+    ],
+    [
+      "City College of New York",
+      2
+    ],
+    [
+      "University of Akron",
+      2
+    ],
+    [
+      "King Abdullah University of Science and Technology",
+      2
+    ],
+    [
+      "University of Mississippi Medical Center",
+      2
+    ],
+    [
+      "Villanova University",
+      2
+    ],
+    [
+      "Virginia Mason Medical Center",
+      2
+    ],
+    [
+      "St George's, University of London",
+      2
+    ],
+    [
+      "Kent State University",
+      2
+    ],
+    [
+      "University of Bremen",
+      2
+    ],
+    [
+      "Université de Montréal",
+      2
+    ],
+    [
+      "University of Technology, Sydney",
+      2
+    ],
+    [
+      "University of Ljubljana",
+      2
+    ],
+    [
+      "University of Oslo",
+      2
+    ],
+    [
+      "United States Department of Energy Office of Science",
+      2
+    ],
+    [
+      "Charles Stark Draper Laboratory",
+      2
+    ],
+    [
+      "NCR Corporation",
+      2
+    ],
+    [
+      "J. Craig Venter Institute",
+      2
+    ],
+    [
+      "University of Kent",
+      2
+    ],
+    [
+      "NTT DoCoMo",
+      2
+    ],
+    [
+      "College of the Holy Cross",
+      2
+    ],
+    [
+      "Boston University School of Medicine",
+      2
+    ],
+    [
+      "Barrow Neurological Institute",
+      2
+    ],
+    [
+      "Walter Reed Army Institute of Research",
+      2
+    ],
+    [
+      "École nationale supérieure des télécommunications de Bretagne",
+      2
+    ],
+    [
+      "ASM International",
+      2
+    ],
+    [
+      "Pompeu Fabra University",
+      2
+    ],
+    [
+      "Heidelberg University",
+      2
+    ],
+    [
+      "World Health Organization",
+      2
+    ],
+    [
+      "Space Sciences Laboratory",
+      2
+    ],
+    [
+      "Électricité de France",
+      2
+    ],
+    [
+      "Utrecht University",
+      2
+    ],
+    [
+      "University of Ulm",
+      2
+    ],
+    [
+      "Dow Chemical Company",
+      2
+    ],
+    [
+      "Wageningen University and Research Centre",
+      2
+    ],
+    [
+      "University of Luxembourg",
+      2
+    ],
+    [
+      "Areva",
+      2
+    ],
+    [
+      "Wills Eye Institute",
+      2
+    ],
+    [
+      "Institute for Materials Research",
+      2
+    ],
+    [
+      "Medical University of South Carolina",
+      2
+    ],
+    [
+      "Sant'Anna School of Advanced Studies",
+      2
+    ],
+    [
+      "NICTA",
+      2
+    ],
+    [
+      "Xidian University",
+      2
+    ],
+    [
+      "Polytechnic University of Valencia",
+      2
+    ],
+    [
+      "Artificial Intelligence Center",
+      2
+    ],
+    [
+      "University of Colorado Denver",
+      2
+    ],
+    [
+      "Mount Sinai St. Luke's and Mount Sinai Roosevelt",
+      2
+    ],
+    [
+      "Semiconductor Research Corporation",
+      2
+    ],
+    [
+      "University of L'Aquila",
+      2
+    ],
+    [
+      "Tamkang University",
+      2
+    ],
+    [
+      "AstraZeneca",
+      2
+    ],
+    [
+      "Jadavpur University",
+      2
+    ],
+    [
+      "Affymetrix",
+      2
+    ],
+    [
+      "Mentor Graphics",
+      2
+    ],
+    [
+      "Huazhong University of Science and Technology",
+      2
+    ],
+    [
+      "National Institute of Education",
+      2
+    ],
+    [
+      "HGST",
+      2
+    ],
+    [
+      "University of New Orleans",
+      2
+    ],
+    [
+      "Tennessee Technological University",
+      2
+    ],
+    [
+      "Sungkyunkwan University",
+      2
+    ],
+    [
+      "Systems Research Institute",
+      2
+    ],
+    [
+      "United States Department of Agriculture",
+      2
+    ],
+    [
+      "Florida Institute of Technology",
+      2
+    ],
+    [
+      "BT Group",
+      2
+    ],
+    [
+      "CINVESTAV",
+      2
+    ],
+    [
+      "Rockefeller University",
+      2
+    ],
+    [
+      "Sun Microsystems",
+      2
+    ],
+    [
+      "Tyndall National Institute",
+      2
+    ],
+    [
+      "Enel",
+      2
+    ],
+    [
+      "Curtin University",
+      2
+    ],
+    [
+      "University of Bonn",
+      2
+    ],
+    [
+      "College of William & Mary",
+      2
+    ],
+    [
+      "Rutherford Appleton Laboratory",
+      2
+    ],
+    [
+      "Northern Illinois University",
+      2
+    ],
+    [
+      "Pontifical Catholic University of Rio de Janeiro",
+      2
+    ],
+    [
+      "CentraleSupélec",
+      2
+    ],
+    [
+      "Southern Methodist University",
+      2
+    ],
+    [
+      "Leiden University",
+      2
+    ],
+    [
+      "Georgetown University",
+      2
+    ],
+    [
+      "Carnegie Institution for Science",
+      2
+    ],
+    [
+      "Burlington Coat Factory",
+      2
+    ],
+    [
+      "University of New Brunswick",
+      2
+    ],
+    [
+      "University of Potsdam",
+      2
+    ],
+    [
+      "Dublin City University",
+      2
+    ],
+    [
+      "De Montfort University",
+      2
+    ],
+    [
+      "Supélec",
+      2
+    ],
+    [
+      "iResQ",
+      2
+    ],
+    [
+      "Union Carbide",
+      2
+    ],
+    [
+      "University of Geneva",
+      2
+    ],
+    [
+      "Bristol-Myers Squibb",
+      2
+    ],
+    [
+      "Toyota",
+      2
+    ],
+    [
+      "KEMA",
+      2
+    ],
+    [
+      "University of Nebraska Medical Center",
+      2
+    ],
+    [
+      "Braunschweig University of Technology",
+      2
+    ],
+    [
+      "University of Udine",
+      2
+    ],
+    [
+      "United States Naval Academy",
+      2
+    ],
+    [
+      "Salk Institute for Biological Studies",
+      2
+    ],
+    [
+      "Ain Shams University",
+      2
+    ],
+    [
+      "Memorial Hospital of South Bend",
+      2
+    ],
+    [
+      "National Semiconductor",
+      2
+    ],
+    [
+      "Moore School of Electrical Engineering",
+      2
+    ],
+    [
+      "The Ohio State University",
+      2
+    ],
+    [
+      "Leonardo",
+      2
+    ],
+    [
+      "École normale supérieure de Lyon",
+      2
+    ],
+    [
+      "Erasmus University Rotterdam",
+      2
+    ],
+    [
+      "Woods Hole Oceanographic Institution",
+      2
+    ],
+    [
+      "Daimler AG",
+      2
+    ],
+    [
+      "City University London",
+      2
+    ],
+    [
+      "University of Cologne",
+      2
+    ],
+    [
+      "University of Gothenburg",
+      2
+    ],
+    [
+      "I-Shou University",
+      2
+    ],
+    [
+      "Michigan Technological University",
+      2
+    ],
+    [
+      "Yokohama City University",
+      2
+    ],
+    [
+      "Ministry of Posts and Telecommunications",
+      2
+    ],
+    [
+      "Kyoto Prefectural University of Medicine",
+      2
+    ],
+    [
+      "John Wiley & Sons",
+      2
+    ],
+    [
+      "University of Alaska Fairbanks",
+      2
+    ],
+    [
+      "University of Wollongong",
+      2
+    ],
+    [
+      "University of Cape Town",
+      2
+    ],
+    [
+      "Doğuş University",
+      2
+    ],
+    [
+      "English Nature",
+      2
+    ],
+    [
+      "Indian Institutes of Technology",
+      2
+    ],
+    [
+      "University of Maine",
+      2
+    ],
+    [
+      "University of Windsor",
+      2
+    ],
+    [
+      "BAE Systems",
+      2
+    ],
+    [
+      "Federal University of Paraná",
+      2
+    ],
+    [
+      "San Diego State University",
+      2
+    ],
+    [
+      "University of Hyogo",
+      2
+    ],
+    [
+      "Martin Luther University of Halle-Wittenberg",
+      2
+    ],
+    [
+      "Nankai University",
+      2
+    ],
+    [
+      "Leibniz Association",
+      2
+    ],
+    [
+      "University of Bergen",
+      2
+    ],
+    [
+      "University Health Network",
+      2
+    ],
+    [
+      "Tokyo City University",
+      2
+    ],
+    [
+      "GE Healthcare",
+      2
+    ],
+    [
+      "Shenzhen University",
+      2
+    ],
+    [
+      "Swiss Federal Institute of Technology in Lausanne",
+      2
+    ],
+    [
+      "St. Jude Children's Research Hospital",
+      2
+    ],
+    [
+      "Yokogawa Electric",
+      2
+    ],
+    [
+      "Loma Linda University",
+      2
+    ],
+    [
+      "University of São Paulo",
+      2
+    ],
+    [
+      "Monash University, Clayton campus",
+      2
+    ],
+    [
+      "University of Paris-Sud",
+      2
+    ],
+    [
+      "University of Kassel",
+      2
+    ],
+    [
+      "Tufts University School of Medicine",
+      2
+    ],
+    [
+      "University of North Dakota",
+      2
+    ],
+    [
+      "Murata Manufacturing",
+      2
+    ],
+    [
+      "Grumman Aircraft Corporation",
+      2
+    ],
+    [
+      "Ibaraki University",
+      2
+    ],
+    [
+      "University of Kitakyushu",
+      2
+    ],
+    [
+      "Utsunomiya University",
+      2
+    ],
+    [
+      "University of California, Merced",
+      2
+    ],
+    [
+      "Los Angeles Department of Water and Power",
+      2
+    ],
+    [
+      "Avaya",
+      2
+    ],
+    [
+      "Franklin W. Olin College of Engineering",
+      2
+    ],
+    [
+      "National Instruments",
+      2
+    ],
+    [
+      "Nvidia",
+      2
+    ],
+    [
+      "Saitama University",
+      2
+    ],
+    [
+      "Genetics Institute, Inc.",
+      2
+    ],
+    [
+      "Pázmány Péter Catholic University",
+      2
+    ],
+    [
+      "University of Belgrade",
+      2
+    ],
+    [
+      "Loughborough University",
+      2
+    ],
+    [
+      "University of Alabama in Huntsville",
+      2
+    ],
+    [
+      "Sons of the American Revolution",
+      2
+    ],
+    [
+      "Scripps Institution of Oceanography",
+      2
+    ],
+    [
+      "Oracle Corporation",
+      2
+    ],
+    [
+      "Academy of Sciences of the Czech Republic",
+      2
+    ],
+    [
+      "Technical University of Dortmund",
+      2
+    ],
+    [
+      "Cadence Design Systems",
+      2
+    ],
+    [
+      "University of Giessen",
+      2
+    ],
+    [
+      "Chubu University",
+      2
+    ],
+    [
+      "STMicroelectronics",
+      2
+    ],
+    [
+      "Emory University School of Medicine",
+      2
+    ],
+    [
+      "Industrial Technology Research Institute",
+      2
+    ],
+    [
+      "University of Vienna",
+      2
+    ],
+    [
+      "University of Colorado Denver School of Medicine",
+      2
+    ],
+    [
+      "AlliedSignal",
+      2
+    ],
+    [
+      "Chongqing University",
+      2
+    ],
+    [
+      "South China University of Technology",
+      2
+    ],
+    [
+      "Nanjing University",
+      2
+    ],
+    [
+      "University of Nice Sophia Antipolis",
+      2
+    ],
+    [
+      "University of Exeter",
+      2
+    ],
+    [
+      "University of Coimbra",
+      2
+    ],
+    [
+      "Complutense University of Madrid",
+      2
+    ],
+    [
+      "Brandeis University",
+      2
+    ],
+    [
+      "Meiji University",
+      2
+    ],
+    [
+      "University of Ferrara",
+      2
+    ],
+    [
+      "bell northern research",
+      2
+    ],
+    [
+      "Dalhousie University",
+      2
+    ],
+    [
+      "University of Cagliari",
+      2
+    ],
+    [
+      "Judge Rotenberg Educational Center",
+      2
+    ],
+    [
+      "University of Miami",
+      2
+    ],
+    [
+      "University of Alabama",
+      2
+    ],
+    [
+      "RTI International",
+      2
+    ],
+    [
+      "Miami University",
+      2
+    ],
+    [
+      "Moscow State University",
+      2
+    ],
+    [
+      "Japan Advanced Institute of Science and Technology",
+      2
+    ],
+    [
+      "Sumitomo Electric Industries",
+      2
+    ],
+    [
+      "Czech Technical University in Prague",
+      2
+    ],
+    [
+      "University of Bern",
+      2
+    ],
+    [
+      "Watkins-Johnson Company",
+      2
+    ],
+    [
+      "Charles University in Prague",
+      2
+    ],
+    [
+      "Brigham and Women's Hospital",
+      2
+    ],
+    [
+      "Telefónica",
+      2
+    ],
+    [
+      "University of Oulu",
+      2
+    ],
+    [
+      "Cree Inc.",
+      2
+    ],
+    [
+      "International Federation of Accountants",
+      2
+    ],
+    [
+      "Bhabha Atomic Research Centre",
+      2
+    ],
+    [
+      "University of Liège",
+      2
+    ],
+    [
+      "University of Aberdeen",
+      2
+    ],
+    [
+      "University of Milan",
+      2
+    ],
+    [
+      "Jackson School of Geosciences",
+      2
+    ],
+    [
+      "University of Oregon",
+      2
+    ],
+    [
+      "Hamburg University of Technology",
+      2
+    ],
+    [
+      "Howard University",
+      2
+    ],
+    [
+      "United States Environmental Protection Agency",
+      2
+    ],
+    [
+      "General Dynamics",
+      2
+    ],
+    [
+      "InterDigital, Inc.",
+      2
+    ],
+    [
+      "Oakland University",
+      2
+    ],
+    [
+      "University of Ontario Institute of Technology",
+      2
+    ],
+    [
+      "VU University Amsterdam",
+      2
+    ],
+    [
+      "AT&T Inc",
+      2
+    ],
+    [
+      "Memorial Sloan Kettering Cancer Center",
+      2
+    ],
+    [
+      "University of Groningen",
+      2
+    ],
+    [
+      "Teradyne",
+      2
+    ],
+    [
+      "Nanjing Normal University",
+      2
+    ],
+    [
+      "Saint Thomas Health",
+      1
+    ],
+    [
+      "National Health and Medical Research Council",
+      1
+    ],
+    [
+      "Monterrey Institute of Technology and Higher Education",
+      1
+    ],
+    [
+      "American Heart Association",
+      1
+    ],
+    [
+      "Bucknell University",
+      1
+    ],
+    [
+      "All India Institute of Medical Sciences",
+      1
+    ],
+    [
+      "The Institute of Optics",
+      1
+    ],
+    [
+      "Arizona Public Service",
+      1
+    ],
+    [
+      "Institute for Health Metrics and Evaluation",
+      1
+    ],
+    [
+      "Institute of Occupational Medicine",
+      1
+    ],
+    [
+      "Institute of Statistical Mathematics",
+      1
+    ],
+    [
+      "Industrial Research Institute",
+      1
+    ],
+    [
+      "University of South Alabama",
+      1
+    ],
+    [
+      "Randolph–Macon College",
+      1
+    ],
+    [
+      "University of Chester",
+      1
+    ],
+    [
+      "University of Nottingham Medical School",
+      1
+    ],
+    [
+      "CableLabs",
+      1
+    ],
+    [
+      "ETH Zürich",
+      1
+    ],
+    [
+      "International Institute for Applied Systems Analysis",
+      1
+    ],
+    [
+      "University of the Aegean",
+      1
+    ],
+    [
+      "Center for Computational Biology",
+      1
+    ],
+    [
+      "Boston College",
+      1
+    ],
+    [
+      "American Museum of Natural History",
+      1
+    ],
+    [
+      "Skaggs School of Pharmacy and Pharmaceutical Sciences",
+      1
+    ],
+    [
+      "Royal Military College of Canada",
+      1
+    ],
+    [
+      "Jikei University School of Medicine",
+      1
+    ],
+    [
+      "Okayama Prefectural University",
+      1
+    ],
+    [
+      "Government College",
+      1
+    ],
+    [
+      "University of Canterbury",
+      1
+    ],
+    [
+      "Yamagata University",
+      1
+    ],
+    [
+      "Chicago Transit Authority",
+      1
+    ],
+    [
+      "Ryukoku University",
+      1
+    ],
+    [
+      "University of Zagreb",
+      1
+    ],
+    [
+      "Universidad del Norte, Colombia",
+      1
+    ],
+    [
+      "Istanbul Technical University",
+      1
+    ],
+    [
+      "The Joint Commission",
+      1
+    ],
+    [
+      "AES Corporation",
+      1
+    ],
+    [
+      "University of Tennessee at Chattanooga",
+      1
+    ],
+    [
+      "Wright Laboratory",
+      1
+    ],
+    [
+      "Met Office",
+      1
+    ],
+    [
+      "University of the Andes",
+      1
+    ],
+    [
+      "European Space Operations Centre",
+      1
+    ],
+    [
+      "University of Milano-Bicocca",
+      1
+    ],
+    [
+      "Center for Devices and Radiological Health",
+      1
+    ],
+    [
+      "ENSEEIHT",
+      1
+    ],
+    [
+      "Johannes Kepler University of Linz",
+      1
+    ],
+    [
+      "Cooper Union",
+      1
+    ],
+    [
+      "California State University, Fullerton",
+      1
+    ],
+    [
+      "Seattle University",
+      1
+    ],
+    [
+      "Beijing University of Posts and Telecommunications",
+      1
+    ],
+    [
+      "Saarland University",
+      1
+    ],
+    [
+      "Monroe Community College",
+      1
+    ],
+    [
+      "Griffith University",
+      1
+    ],
+    [
+      "FirstEnergy",
+      1
+    ],
+    [
+      "Conservatoire national des arts et métiers",
+      1
+    ],
+    [
+      "Apple Inc.",
+      1
+    ],
+    [
+      "IMT Institute for Advanced Studies Lucca",
+      1
+    ],
+    [
+      "Ben-Gurion University of the Negev",
+      1
+    ],
+    [
+      "University of Iceland",
+      1
+    ],
+    [
+      "University of Campinas",
+      1
+    ],
+    [
+      "Bentley University",
+      1
+    ],
+    [
+      "University Medical Center Groningen",
+      1
+    ],
+    [
+      "San Diego Supercomputer Center",
+      1
+    ],
+    [
+      "Spectral Sciences Incorporated",
+      1
+    ],
+    [
+      "École centrale de Lyon",
+      1
+    ],
+    [
+      "Ciena",
+      1
+    ],
+    [
+      "Indigenous Environmental Network",
+      1
+    ],
+    [
+      "PJM Interconnection",
+      1
+    ],
+    [
+      "Halmstad University",
+      1
+    ],
+    [
+      "Roma Tre University",
+      1
+    ],
+    [
+      "Bosch",
+      1
+    ],
+    [
+      "Université du Québec en Outaouais",
+      1
+    ],
+    [
+      "Adelphi University",
+      1
+    ],
+    [
+      "Luleå University of Technology",
+      1
+    ],
+    [
+      "GE Global Research",
+      1
+    ],
+    [
+      "Novum",
+      1
+    ],
+    [
+      "Emerson Electric",
+      1
+    ],
+    [
+      "Bendix Corporation",
+      1
+    ],
+    [
+      "Swedish University of Agricultural Sciences",
+      1
+    ],
+    [
+      "University of Aveiro",
+      1
+    ],
+    [
+      "Pierre-and-Marie-Curie University",
+      1
+    ],
+    [
+      "University of Peloponnese",
+      1
+    ],
+    [
+      "Idiap Research Institute",
+      1
+    ],
+    [
+      "RSA",
+      1
+    ],
+    [
+      "Cleveland State University",
+      1
+    ],
+    [
+      "Milwaukee School of Engineering",
+      1
+    ],
+    [
+      "St. Francis Xavier University",
+      1
+    ],
+    [
+      "Southern Illinois University School of Medicine",
+      1
+    ],
+    [
+      "Powell Industries",
+      1
+    ],
+    [
+      "IBM, USA",
+      1
+    ],
+    [
+      "Colorado State University–Pueblo",
+      1
+    ],
+    [
+      "Raytheon Company",
+      1
+    ],
+    [
+      "University of Southern Queensland",
+      1
+    ],
+    [
+      "Texas Industries",
+      1
+    ],
+    [
+      "Agere Systems",
+      1
+    ],
+    [
+      "University of Freiburg",
+      1
+    ],
+    [
+      "Public Health Research Institute",
+      1
+    ],
+    [
+      "Monsanto",
+      1
+    ],
+    [
+      "Brandon University",
+      1
+    ],
+    [
+      "IBM Zurich Research Laboratory",
+      1
+    ],
+    [
+      "Tyco International",
+      1
+    ],
+    [
+      "Central South University",
+      1
+    ],
+    [
+      "Wake Forest School of Medicine",
+      1
+    ],
+    [
+      "University of Brescia",
+      1
+    ],
+    [
+      "University of Picardie Jules Verne",
+      1
+    ],
+    [
+      "Adept Technology",
+      1
+    ],
+    [
+      "Lord Corporation",
+      1
+    ],
+    [
+      "Vaccine Research Center",
+      1
+    ],
+    [
+      "Centre College",
+      1
+    ],
+    [
+      "University of Alcalá",
+      1
+    ],
+    [
+      "Cardiovascular Institute of the South",
+      1
+    ],
+    [
+      "Yerkes National Primate Research Center",
+      1
+    ],
+    [
+      "Institute of Energy Conversion",
+      1
+    ],
+    [
+      "Feng Chia University",
+      1
+    ],
+    [
+      "Grenoble Institute of Technology",
+      1
+    ],
+    [
+      "Martin Marietta Materials, Inc.",
+      1
+    ],
+    [
+      "Institute of Acoustics",
+      1
+    ],
+    [
+      "Paris Diderot University",
+      1
+    ],
+    [
+      "IMS Health",
+      1
+    ],
+    [
+      "Indian Institute of Technology Guwahati",
+      1
+    ],
+    [
+      "Orange S.A.",
+      1
+    ],
+    [
+      "National Yunlin University of Science and Technology",
+      1
+    ],
+    [
+      "University of Massachusetts Dartmouth",
+      1
+    ],
+    [
+      "South China Agricultural University",
+      1
+    ],
+    [
+      "Université du Québec à Chicoutimi",
+      1
+    ],
+    [
+      "Boise State University",
+      1
+    ],
+    [
+      "University of Cassino",
+      1
+    ],
+    [
+      "ASU School of Sustainability",
+      1
+    ],
+    [
+      "National Kaohsiung First University of Science and Technology",
+      1
+    ],
+    [
+      "University of South Australia",
+      1
+    ],
+    [
+      "California independent system operator",
+      1
+    ],
+    [
+      "AWR Corporation",
+      1
+    ],
+    [
+      "School of Mathematics, University of Manchester",
+      1
+    ],
+    [
+      "Multimedia University",
+      1
+    ],
+    [
+      "Children's Mercy Hospital",
+      1
+    ],
+    [
+      "Teesside University",
+      1
+    ],
+    [
+      "SEI Investments Company",
+      1
+    ],
+    [
+      "Ludwig Institute for Cancer Research",
+      1
+    ],
+    [
+      "Télécom ParisTech",
+      1
+    ],
+    [
+      "CEREMADE",
+      1
+    ],
+    [
+      "Clalit Health Services",
+      1
+    ],
+    [
+      "DBS Bank",
+      1
+    ],
+    [
+      "Mount Sinai Hospital",
+      1
+    ],
+    [
+      "Royal Melbourne Hospital",
+      1
+    ],
+    [
+      "Schneider Electric",
+      1
+    ],
+    [
+      "ExxonMobil",
+      1
+    ],
+    [
+      "CD-adapco",
+      1
+    ],
+    [
+      "University of Castilla–La Mancha",
+      1
+    ],
+    [
+      "Scottish Enterprise",
+      1
+    ],
+    [
+      "European Bioinformatics Institute",
+      1
+    ],
+    [
+      "Institute of Biological, Environmental and Rural Sciences",
+      1
+    ],
+    [
+      "Fermilab",
+      1
+    ],
+    [
+      "Lucent Technologies",
+      1
+    ],
+    [
+      "University of Georgia",
+      1
+    ],
+    [
+      "Westinghouse Electric Corporation",
+      1
+    ],
+    [
+      "Karolinska Institutet",
+      1
+    ],
+    [
+      "Wabash College",
+      1
+    ],
+    [
+      "APC by Schneider Electric",
+      1
+    ],
+    [
+      "Southwest Research Institute",
+      1
+    ],
+    [
+      "Stoke-on-Trent",
+      1
+    ],
+    [
+      "Aston University",
+      1
+    ],
+    [
+      "University of Bucharest",
+      1
+    ],
+    [
+      "Los Angeles Harbor College",
+      1
+    ],
+    [
+      "JILA",
+      1
+    ],
+    [
+      "Federal University of Paraíba",
+      1
+    ],
+    [
+      "Ithaca College",
+      1
+    ],
+    [
+      "Era Aviation",
+      1
+    ],
+    [
+      "University of Vermont",
+      1
+    ],
+    [
+      "Defence Research and Development Canada",
+      1
+    ],
+    [
+      "Texas A&M University System",
+      1
+    ],
+    [
+      "Marist College",
+      1
+    ],
+    [
+      "Haas School of Business",
+      1
+    ],
+    [
+      "University of Avignon",
+      1
+    ],
+    [
+      "University of Brasília",
+      1
+    ],
+    [
+      "Institute for Development and Research in Banking Technology",
+      1
+    ],
+    [
+      "National Nuclear Security Administration",
+      1
+    ],
+    [
+      "European Automobile Manufacturers Association",
+      1
+    ],
+    [
+      "Université du Québec en Abitibi-Témiscamingue",
+      1
+    ],
+    [
+      "Massey University",
+      1
+    ],
+    [
+      "Commonwealth Associates, Inc.",
+      1
+    ],
+    [
+      "University of North Carolina at Greensboro",
+      1
+    ],
+    [
+      "Bank of Spain",
+      1
+    ],
+    [
+      "INAF",
+      1
+    ],
+    [
+      "Uniformed Services University of the Health Sciences",
+      1
+    ],
+    [
+      "Institute for Geosciences and Natural Resources",
+      1
+    ],
+    [
+      "La Trobe University",
+      1
+    ],
+    [
+      "GlobalFoundries",
+      1
+    ],
+    [
+      "Panacea Biotec",
+      1
+    ],
+    [
+      "PerkinElmer",
+      1
+    ],
+    [
+      "University of Northern British Columbia",
+      1
+    ],
+    [
+      "Rovira i Virgili University",
+      1
+    ],
+    [
+      "National Academy of Sciences",
+      1
+    ],
+    [
+      "Ciber",
+      1
+    ],
+    [
+      "University of Paderborn",
+      1
+    ],
+    [
+      "Flinders University",
+      1
+    ],
+    [
+      "The Pentagon",
+      1
+    ],
+    [
+      "Virginia Institute of Marine Science",
+      1
+    ],
+    [
+      "Grinnell College",
+      1
+    ],
+    [
+      "Saudi Aramco",
+      1
+    ],
+    [
+      "New York City Landmarks Preservation Commission",
+      1
+    ],
+    [
+      "University of Tulsa",
+      1
+    ],
+    [
+      "General Cable",
+      1
+    ],
+    [
+      "Purdue University College of Engineering",
+      1
+    ],
+    [
+      "Moss Landing Marine Laboratories",
+      1
+    ],
+    [
+      "Siemens Energy Sector",
+      1
+    ],
+    [
+      "State University of New York at Purchase",
+      1
+    ],
+    [
+      "Zenith Electronics",
+      1
+    ],
+    [
+      "University of Peradeniya",
+      1
+    ],
+    [
+      "Ottawa University",
+      1
+    ],
+    [
+      "McMaster-Carr",
+      1
+    ],
+    [
+      "Christopher Newport University",
+      1
+    ],
+    [
+      "Black & Veatch",
+      1
+    ],
+    [
+      "Peninsula College of Medicine and Dentistry",
+      1
+    ],
+    [
+      "University of Chile",
+      1
+    ],
+    [
+      "Cornell Tech",
+      1
+    ],
+    [
+      "Centre for Maritime Research and Experimentation",
+      1
+    ],
+    [
+      "Ajman University of Science and Technology",
+      1
+    ],
+    [
+      "General Atomics",
+      1
+    ],
+    [
+      "Wellcome Trust Centre for Neuroimaging",
+      1
+    ],
+    [
+      "Technical University of Nova Scotia",
+      1
+    ],
+    [
+      "Neurocrine Biosciences",
+      1
+    ],
+    [
+      "Southwest Jiaotong University",
+      1
+    ],
+    [
+      "New York Power Authority",
+      1
+    ],
+    [
+      "Selex ES",
+      1
+    ],
+    [
+      "United States Department of Transportation",
+      1
+    ],
+    [
+      "Eutelsat",
+      1
+    ],
+    [
+      "University of Insubria",
+      1
+    ],
+    [
+      "Rutgers Graduate School of Education",
+      1
+    ],
+    [
+      "University of Mainz",
+      1
+    ],
+    [
+      "University of Ghana",
+      1
+    ],
+    [
+      "Multispectral Solutions, Inc.",
+      1
+    ],
+    [
+      "Hitachi Global Storage Technology",
+      1
+    ],
+    [
+      "Rhodes University",
+      1
+    ],
+    [
+      "Sunnybrook Research Institute",
+      1
+    ],
+    [
+      "Saint Petersburg State University",
+      1
+    ],
+    [
+      "Medical University of Vienna",
+      1
+    ],
+    [
+      "University of Duisburg",
+      1
+    ],
+    [
+      "European University Institute",
+      1
+    ],
+    [
+      "Bethel University",
+      1
+    ],
+    [
+      "Advanced Technology Center",
+      1
+    ],
+    [
+      "Population Council",
+      1
+    ],
+    [
+      "International Atomic Energy Agency",
+      1
+    ],
+    [
+      "Indiana University School of Medicine",
+      1
+    ],
+    [
+      "Nara Inst. of Sci. & Technol.",
+      1
+    ],
+    [
+      "University of the Ryukyus",
+      1
+    ],
+    [
+      "School of Computer Science, University of Manchester",
+      1
+    ],
+    [
+      "CACI",
+      1
+    ],
+    [
+      "Southern Cross University",
+      1
+    ],
+    [
+      "Praxis",
+      1
+    ],
+    [
+      "Tellabs",
+      1
+    ],
+    [
+      "Kaiser Permanente",
+      1
+    ],
+    [
+      "University of Tehran",
+      1
+    ],
+    [
+      "Polytechnic University of Milan",
+      1
+    ],
+    [
+      "École nationale supérieure d'électronique et de radioélectricité de Grenoble",
+      1
+    ],
+    [
+      "Ulster University",
+      1
+    ],
+    [
+      "Cooperative Research Centre",
+      1
+    ],
+    [
+      "Varian Associates",
+      1
+    ],
+    [
+      "Osram Sylvania",
+      1
+    ],
+    [
+      "Brighton Collectibles",
+      1
+    ],
+    [
+      "Natural Resources Canada",
+      1
+    ],
+    [
+      "University of Auckland",
+      1
+    ],
+    [
+      "Walsh University",
+      1
+    ],
+    [
+      "Schlumberger",
+      1
+    ],
+    [
+      "UNC Eshelman School of Pharmacy",
+      1
+    ],
+    [
+      "Kettering University",
+      1
+    ],
+    [
+      "Group Health Research Institute",
+      1
+    ],
+    [
+      "Nanjing Medical University",
+      1
+    ],
+    [
+      "Russian Academy of Sciences",
+      1
+    ],
+    [
+      "Jilin University",
+      1
+    ],
+    [
+      "Institute of Physics, Bhubaneswar",
+      1
+    ],
+    [
+      "Electronics for Imaging",
+      1
+    ],
+    [
+      "University of Zurich",
+      1
+    ],
+    [
+      "Centro de Investigación en Computación",
+      1
+    ],
+    [
+      "Korea Electrotechnology Research Institute",
+      1
+    ],
+    [
+      "Institute of Mental Health",
+      1
+    ],
+    [
+      "PECO Energy Company",
+      1
+    ],
+    [
+      "Environmental Change Institute",
+      1
+    ],
+    [
+      "Stellenbosch University",
+      1
+    ],
+    [
+      "Chevron Corporation",
+      1
+    ],
+    [
+      "University of Regina",
+      1
+    ],
+    [
+      "The Hertz Corporation",
+      1
+    ],
+    [
+      "Kanazawa University",
+      1
+    ],
+    [
+      "Austrian Academy of Sciences",
+      1
+    ],
+    [
+      "National Taipei University",
+      1
+    ],
+    [
+      "Senshu University",
+      1
+    ],
+    [
+      "Sojo University",
+      1
+    ],
+    [
+      "Carestream Health",
+      1
+    ],
+    [
+      "Mälardalen University College",
+      1
+    ],
+    [
+      "Carnegie Learning",
+      1
+    ],
+    [
+      "Steward Health Care System",
+      1
+    ],
+    [
+      "National Center for Toxicological Research",
+      1
+    ],
+    [
+      "Hirosaki University",
+      1
+    ],
+    [
+      "South Korean Ministry for Health, Welfare and Family Affairs",
+      1
+    ],
+    [
+      "Daytona State College",
+      1
+    ],
+    [
+      "Takeda Pharmaceutical Company",
+      1
+    ],
+    [
+      "Shiga University of Medical Science",
+      1
+    ],
+    [
+      "Chung-Ang University",
+      1
+    ],
+    [
+      "Mercer University",
+      1
+    ],
+    [
+      "Harris Corporation",
+      1
+    ],
+    [
+      "University of Jena",
+      1
+    ],
+    [
+      "Institute of Mathematics",
+      1
+    ],
+    [
+      "CNET",
+      1
+    ],
+    [
+      "Institute of Science and Technology Austria",
+      1
+    ],
+    [
+      "University of Guelph",
+      1
+    ],
+    [
+      "Western University of Health Sciences",
+      1
+    ],
+    [
+      "Hiroshima Institute of Technology",
+      1
+    ],
+    [
+      "Saskatchewan Univ.",
+      1
+    ],
+    [
+      "Gwangju Institute of Science and Technology",
+      1
+    ],
+    [
+      "Agriculture and Agri-Food Canada",
+      1
+    ],
+    [
+      "Foundation University, Islamabad",
+      1
+    ],
+    [
+      "Sofia Medical University",
+      1
+    ],
+    [
+      "Weyerhaeuser",
+      1
+    ],
+    [
+      "National Ocean Service",
+      1
+    ],
+    [
+      "University of Texas Health Science Center at Houston",
+      1
+    ],
+    [
+      "Harvey Mudd College",
+      1
+    ],
+    [
+      "University of Connecticut School of Medicine",
+      1
+    ],
+    [
+      "Mie University",
+      1
+    ],
+    [
+      "University of Trier",
+      1
+    ],
+    [
+      "College of Science and Technology",
+      1
+    ],
+    [
+      "Institute for Energy",
+      1
+    ],
+    [
+      "Prince of Wales Medical Research Institute",
+      1
+    ],
+    [
+      "Alibaba Group",
+      1
+    ],
+    [
+      "Hospital for Special Surgery",
+      1
+    ],
+    [
+      "Center for Information Technology",
+      1
+    ],
+    [
+      "University of Otago",
+      1
+    ],
+    [
+      "MAYA Design",
+      1
+    ],
+    [
+      "Raychem Corporation",
+      1
+    ],
+    [
+      "University of Tromsø",
+      1
+    ],
+    [
+      "Hanyang University",
+      1
+    ],
+    [
+      "Istituto Nazionale di Fisica Nucleare",
+      1
+    ],
+    [
+      "Saga University",
+      1
+    ],
+    [
+      "Kawasaki Medical School",
+      1
+    ],
+    [
+      "Takushoku University",
+      1
+    ],
+    [
+      "Food and Drug Administration",
+      1
+    ],
+    [
+      "Institute of Space and Astronautical Science",
+      1
+    ],
+    [
+      "Kagoshima University",
+      1
+    ],
+    [
+      "Hofstra University",
+      1
+    ],
+    [
+      "Tottori University",
+      1
+    ],
+    [
+      "Tokyo Medical University",
+      1
+    ],
+    [
+      "Holon Institute of Technology",
+      1
+    ],
+    [
+      "Osaka Prefecture University",
+      1
+    ],
+    [
+      "Saitama Medical University",
+      1
+    ],
+    [
+      "American University in Cairo",
+      1
+    ],
+    [
+      "American University of Beirut",
+      1
+    ],
+    [
+      "John Curtin School of Medical Research",
+      1
+    ],
+    [
+      "The University of Alabama",
+      1
+    ],
+    [
+      "Federal University of Campina Grande",
+      1
+    ],
+    [
+      "Paradigm",
+      1
+    ],
+    [
+      "University of Connecticut Health Center",
+      1
+    ],
+    [
+      "The Rogosin Institute",
+      1
+    ],
+    [
+      "AGH University of Science and Technology",
+      1
+    ],
+    [
+      "Indraprastha Institute of Information Technology",
+      1
+    ],
+    [
+      "Murdoch University",
+      1
+    ],
+    [
+      "University of Lugano",
+      1
+    ],
+    [
+      "Golder Associates",
+      1
+    ],
+    [
+      "National Taiwan Ocean University",
+      1
+    ],
+    [
+      "GE Aviation",
+      1
+    ],
+    [
+      "Wichita State University",
+      1
+    ],
+    [
+      "Molecular Probes",
+      1
+    ],
+    [
+      "Bendix Aviation",
+      1
+    ],
+    [
+      "Queens College",
+      1
+    ],
+    [
+      "London School of Hygiene & Tropical Medicine",
+      1
+    ],
+    [
+      "The Royal Marsden NHS Foundation Trust",
+      1
+    ],
+    [
+      "American Psychological Association",
+      1
+    ],
+    [
+      "Janelia Farm Research Campus",
+      1
+    ],
+    [
+      "Naval Medical Research Center",
+      1
+    ],
+    [
+      "Keele University",
+      1
+    ],
+    [
+      "Bielefeld University",
+      1
+    ],
+    [
+      "Rush University Medical Center",
+      1
+    ],
+    [
+      "University of the West Indies",
+      1
+    ],
+    [
+      "Rehabilitation Institute of Chicago",
+      1
+    ],
+    [
+      "American Superconductor",
+      1
+    ],
+    [
+      "Polytechnic School of the University of São Paulo",
+      1
+    ],
+    [
+      "University of North Florida",
+      1
+    ],
+    [
+      "Wyss Institute for Biologically Inspired Engineering",
+      1
+    ],
+    [
+      "Taisho Pharmaceutical Co.",
+      1
+    ],
+    [
+      "Auckland University of Technology",
+      1
+    ],
+    [
+      "The Furukawa Electric Co., Ltd.",
+      1
+    ],
+    [
+      "Victoria University, Australia",
+      1
+    ],
+    [
+      "The College of New Jersey",
+      1
+    ],
+    [
+      "Eurescom",
+      1
+    ],
+    [
+      "Shizuoka University",
+      1
+    ],
+    [
+      "Boğaziçi University",
+      1
+    ],
+    [
+      "United Airlines",
+      1
+    ],
+    [
+      "Colorado College",
+      1
+    ],
+    [
+      "Canadian Red Cross",
+      1
+    ],
+    [
+      "Seikei University",
+      1
+    ],
+    [
+      "Chonbuk National University",
+      1
+    ],
+    [
+      "Korea Institute of Science and Technology",
+      1
+    ],
+    [
+      "Spectrolab",
+      1
+    ],
+    [
+      "Gordon College",
+      1
+    ],
+    [
+      "St George's Hospital",
+      1
+    ],
+    [
+      "Toyota National College of Technology",
+      1
+    ],
+    [
+      "Calspan Corporation",
+      1
+    ],
+    [
+      "Meidensha",
+      1
+    ],
+    [
+      "Shinshu University",
+      1
+    ],
+    [
+      "Tokyo University of Agriculture",
+      1
+    ],
+    [
+      "Macedonian Academy of Sciences and Arts",
+      1
+    ],
+    [
+      "Kingston Technology",
+      1
+    ],
+    [
+      "Tata Consultancy Services",
+      1
+    ],
+    [
+      "Entergy",
+      1
+    ],
+    [
+      "Athens University of Economics and Business",
+      1
+    ],
+    [
+      "University of Split",
+      1
+    ],
+    [
+      "GlaxoSmithKline",
+      1
+    ],
+    [
+      "Philips Consumer Lifestyle",
+      1
+    ],
+    [
+      "Technology Service Corporation",
+      1
+    ],
+    [
+      "Kuvempu University",
+      1
+    ],
+    [
+      "University of Crete",
+      1
+    ],
+    [
+      "Czechoslovak Academy of Sciences",
+      1
+    ],
+    [
+      "Institut Universitaire de Formation des Maîtres",
+      1
+    ],
+    [
+      "Otto-von-Guericke University Magdeburg",
+      1
+    ],
+    [
+      "Dokkyo Medical University",
+      1
+    ],
+    [
+      "Artemis",
+      1
+    ],
+    [
+      "International Crops Research Institute for the Semi-Arid Tropics",
+      1
+    ],
+    [
+      "University of Missouri–Kansas City",
+      1
+    ],
+    [
+      "Council of Scientific and Industrial Research",
+      1
+    ],
+    [
+      "Yaskawa Electric Corporation",
+      1
+    ],
+    [
+      "China Medical University",
+      1
+    ],
+    [
+      "Chang Gung University",
+      1
+    ],
+    [
+      "Smithsonian Astrophysical Observatory",
+      1
+    ],
+    [
+      "Albert Einstein College of Medicine",
+      1
+    ],
+    [
+      "General Dynamics Advanced Information Systems",
+      1
+    ],
+    [
+      "National Taipei University of Technology",
+      1
+    ],
+    [
+      "Children's Medical Research Institute",
+      1
+    ],
+    [
+      "Federal Reserve Bank of Philadelphia",
+      1
+    ],
+    [
+      "Institut de recherche pour le développement",
+      1
+    ],
+    [
+      "Institute of Education",
+      1
+    ],
+    [
+      "California State University, Sacramento",
+      1
+    ],
+    [
+      "Cleveland Institute of Electronics",
+      1
+    ],
+    [
+      "Visual Sciences",
+      1
+    ],
+    [
+      "Indium Corporation",
+      1
+    ],
+    [
+      "Electronics and Telecommunications Research Institute",
+      1
+    ],
+    [
+      "Kyonggi University",
+      1
+    ],
+    [
+      "Hoffmann-La Roche",
+      1
+    ],
+    [
+      "Wonkwang University",
+      1
+    ],
+    [
+      "Vodafone",
+      1
+    ],
+    [
+      "California Polytechnic State University",
+      1
+    ],
+    [
+      "MediaTek",
+      1
+    ],
+    [
+      "Universidade Federal de Itajubá",
+      1
+    ],
+    [
+      "Liverpool John Moores University",
+      1
+    ],
+    [
+      "Beth Israel Medical Center",
+      1
+    ],
+    [
+      "Vanderbilt University Medical Center",
+      1
+    ],
+    [
+      "University of Gloucestershire",
+      1
+    ],
+    [
+      "Beijing University of Technology",
+      1
+    ],
+    [
+      "China Pharmaceutical University",
+      1
+    ],
+    [
+      "Guangzhou University",
+      1
+    ],
+    [
+      "North China Electric Power University\r\n",
+      1
+    ],
+    [
+      "Macau University of Science and Technology",
+      1
+    ],
+    [
+      "School of Medicine, Shanghai Jiao Tong University",
+      1
+    ],
+    [
+      "Birkbeck",
+      1
+    ],
+    [
+      "Beijing Normal University",
+      1
+    ],
+    [
+      "University of Rochester Medical Center",
+      1
+    ],
+    [
+      "International Centre for Theoretical Physics",
+      1
+    ],
+    [
+      "Norwegian Institute of Technology",
+      1
+    ],
+    [
+      "University of London",
+      1
+    ],
+    [
+      "Fuqua School of Business",
+      1
+    ],
+    [
+      "University of Natal",
+      1
+    ],
+    [
+      "Burr-Brown Corporation",
+      1
+    ],
+    [
+      "Arthur D. Little",
+      1
+    ],
+    [
+      "Kolling Institute of Medical Research",
+      1
+    ],
+    [
+      "ISO New England",
+      1
+    ],
+    [
+      "Hong Kong Baptist University",
+      1
+    ],
+    [
+      "Massachusetts Univ.",
+      1
+    ],
+    [
+      "Tongji University",
+      1
+    ],
+    [
+      "Nanjing University of Science and Technology",
+      1
+    ],
+    [
+      "Beijing Information Science & Technology University",
+      1
+    ],
+    [
+      "Arcadis NV",
+      1
+    ],
+    [
+      "Beijing Genomics Institute",
+      1
+    ],
+    [
+      "East Carolina University",
+      1
+    ],
+    [
+      "Environmental Defense Fund",
+      1
+    ],
+    [
+      "Association of Research Libraries",
+      1
+    ],
+    [
+      "Hartford Hospital",
+      1
+    ],
+    [
+      "Infineon Technologies",
+      1
+    ],
+    [
+      "Data Storage Institute",
+      1
+    ],
+    [
+      "Human Genome Sequencing Center",
+      1
+    ],
+    [
+      "North China Electric Power University",
+      1
+    ],
+    [
+      "ITT Technical Institute",
+      1
+    ],
+    [
+      "Council of Agriculture",
+      1
+    ],
+    [
+      "Symmetricom, Inc.",
+      1
+    ],
+    [
+      "Anschutz Medical Campus",
+      1
+    ],
+    [
+      "ShanghaiTech University",
+      1
+    ],
+    [
+      "The Centre for Applied Genomics",
+      1
+    ],
+    [
+      "Lockheed Martin Missiles and Fire Control",
+      1
+    ],
+    [
+      "University of Indonesia",
+      1
+    ],
+    [
+      "Daiichi Sankyo",
+      1
+    ],
+    [
+      "Public Service Enterprise Group",
+      1
+    ],
+    [
+      "Maxtor",
+      1
+    ],
+    [
+      "University of Jordan",
+      1
+    ],
+    [
+      "Analogic Corporation",
+      1
+    ],
+    [
+      "Melbourne School of Engineering, University of Melbourne",
+      1
+    ],
+    [
+      "Swiss Institute of Bioinformatics",
+      1
+    ],
+    [
+      "ASM Clermont Auvergne",
+      1
+    ],
+    [
+      "AmeriCorps VISTA",
+      1
+    ],
+    [
+      "Petrobras",
+      1
+    ],
+    [
+      "Osaka Sangyo University",
+      1
+    ],
+    [
+      "Douglas Aircraft Company",
+      1
+    ],
+    [
+      "New Jersey Medical School",
+      1
+    ],
+    [
+      "Cooperative Institute for Research in Environmental Sciences",
+      1
+    ],
+    [
+      "Fox Chase Cancer Center",
+      1
+    ],
+    [
+      "Juntendo University",
+      1
+    ],
+    [
+      "United States Army Medical Research Institute of Chemical Defense",
+      1
+    ],
+    [
+      "Alfred P. Sloan Foundation",
+      1
+    ],
+    [
+      "Soitec",
+      1
+    ],
+    [
+      "Manitoba Hydro",
+      1
+    ],
+    [
+      "Bionics Institute",
+      1
+    ],
+    [
+      "McGraw-Edison",
+      1
+    ],
+    [
+      "Nortel",
+      1
+    ],
+    [
+      "Verizon Communications",
+      1
+    ],
+    [
+      "Dental school",
+      1
+    ],
+    [
+      "The Breast Cancer Research Foundation",
+      1
+    ],
+    [
+      "Biodesign Institute",
+      1
+    ],
+    [
+      "University of Toulouse",
+      1
+    ],
+    [
+      "Colorado Technical University",
+      1
+    ],
+    [
+      "Toyota Technological Institute",
+      1
+    ],
+    [
+      "Silesian University of Technology",
+      1
+    ],
+    [
+      "Guy's Hospital",
+      1
+    ],
+    [
+      "Veterinary Laboratories Agency",
+      1
+    ],
+    [
+      "Hewlett Packard Labs",
+      1
+    ],
+    [
+      "Inter-University Centre for Astronomy and Astrophysics",
+      1
+    ],
+    [
+      "Nominum Inc.",
+      1
+    ],
+    [
+      "Indian Department of Telecommunications",
+      1
+    ],
+    [
+      "Air Products & Chemicals",
+      1
+    ],
+    [
+      "University of Verona",
+      1
+    ],
+    [
+      "Catholic University of the Sacred Heart",
+      1
+    ],
+    [
+      "University of Concepción",
+      1
+    ],
+    [
+      "Australian Antarctic Division",
+      1
+    ],
+    [
+      "International Computer Science Institute",
+      1
+    ],
+    [
+      "Spacelabs Healthcare",
+      1
+    ],
+    [
+      "University of St Andrews",
+      1
+    ],
+    [
+      "Miami Project to Cure Paralysis",
+      1
+    ],
+    [
+      "Bar-Ilan University",
+      1
+    ],
+    [
+      "University of Gdańsk",
+      1
+    ],
+    [
+      "Université Paris-Saclay",
+      1
+    ],
+    [
+      "University of Marburg",
+      1
+    ],
+    [
+      "California NanoSystems Institute",
+      1
+    ],
+    [
+      "Deutscher Wetterdienst",
+      1
+    ],
+    [
+      "Royal Free London NHS Foundation Trust",
+      1
+    ],
+    [
+      "Hope College",
+      1
+    ],
+    [
+      "Semmelweis University",
+      1
+    ],
+    [
+      "Osaka Bioscience Institute",
+      1
+    ],
+    [
+      "Johnson State College",
+      1
+    ],
+    [
+      "Tokyo Gas",
+      1
+    ],
+    [
+      "Penn State Milton S. Hershey Medical Center",
+      1
+    ],
+    [
+      "University of Oldenburg",
+      1
+    ],
+    [
+      "Montana State University",
+      1
+    ],
+    [
+      "Southern Illinois University Edwardsville",
+      1
+    ],
+    [
+      "City of Hope National Medical Center",
+      1
+    ],
+    [
+      "Chemical Bank",
+      1
+    ],
+    [
+      "University of Eastern Finland",
+      1
+    ],
+    [
+      "Oki Electric Industry",
+      1
+    ],
+    [
+      "Beijing Jiaotong University",
+      1
+    ],
+    [
+      "Tokyo Medical and Dental University",
+      1
+    ],
+    [
+      "Nara Medical University",
+      1
+    ],
+    [
+      "University of Göttingen",
+      1
+    ],
+    [
+      "National Academy of Sciences of Ukraine",
+      1
+    ],
+    [
+      "Owen Graduate School of Management",
+      1
+    ],
+    [
+      "National University of Ireland",
+      1
+    ],
+    [
+      "Institut national de la recherche scientifique",
+      1
+    ],
+    [
+      "Boston Medical Center",
+      1
+    ],
+    [
+      "Nippon Medical School",
+      1
+    ],
+    [
+      "Jagiellonian University",
+      1
+    ],
+    [
+      "Hongik University",
+      1
+    ],
+    [
+      "Federal University of Technology Akure",
+      1
+    ],
+    [
+      "Arai Helmet",
+      1
+    ],
+    [
+      "Autonomous University of Madrid",
+      1
+    ],
+    [
+      "Pasteur Institute",
+      1
+    ],
+    [
+      "Nebraska Medical Center",
+      1
+    ],
+    [
+      "Kansai University",
+      1
+    ],
+    [
+      "Joslin Diabetes Center",
+      1
+    ],
+    [
+      "National Institute of Informatics",
+      1
+    ],
+    [
+      "The George Institute for Global Health",
+      1
+    ],
+    [
+      "Autonomous University of Queretaro",
+      1
+    ],
+    [
+      "Vassar College",
+      1
+    ],
+    [
+      "United States Department of Energy",
+      1
+    ],
+    [
+      "DRS Technologies",
+      1
+    ],
+    [
+      "Creighton University",
+      1
+    ],
+    [
+      "Department of Space",
+      1
+    ],
+    [
+      "Queensland Department of Natural Resources and Mines",
+      1
+    ],
+    [
+      "Kadir Has University",
+      1
+    ],
+    [
+      "Kangwon National University",
+      1
+    ],
+    [
+      "San Francisco State University",
+      1
+    ],
+    [
+      "Endocyte",
+      1
+    ],
+    [
+      "University of Limerick",
+      1
+    ],
+    [
+      "Raytheon BBN Technologies",
+      1
+    ],
+    [
+      "California State University, East Bay",
+      1
+    ],
+    [
+      "University of Hull",
+      1
+    ],
+    [
+      "QIMR Berghofer Medical Research Institute",
+      1
+    ],
+    [
+      "United States Department of Defense",
+      1
+    ],
+    [
+      "Rockwell Collins",
+      1
+    ],
+    [
+      "Polish Academy of Sciences",
+      1
+    ],
+    [
+      "Federal University of Pernambuco",
+      1
+    ],
+    [
+      "Ca' Foscari University of Venice",
+      1
+    ],
+    [
+      "European Institute of Oncology",
+      1
+    ],
+    [
+      "Guangdong University of Technology",
+      1
+    ],
+    [
+      "Pacific School of Religion",
+      1
+    ],
+    [
+      "University of Vigo",
+      1
+    ],
+    [
+      "G. D. Searle & Company",
+      1
+    ],
+    [
+      "EMC Corp.",
+      1
+    ],
+    [
+      "University of Marne-la-Vallée",
+      1
+    ],
+    [
+      "International Center for Tropical Agriculture",
+      1
+    ],
+    [
+      "Indian Council of Agricultural Research",
+      1
+    ],
+    [
+      "Laboratory of Molecular Biology",
+      1
+    ],
+    [
+      "Birmingham City University Faculty of Health",
+      1
+    ],
+    [
+      "Technische Hochschule",
+      1
+    ],
+    [
+      "Physicians Committee for Responsible Medicine",
+      1
+    ],
+    [
+      "University of Extremadura",
+      1
+    ],
+    [
+      "University of Navarra",
+      1
+    ],
+    [
+      "All Nippon Airways",
+      1
+    ],
+    [
+      "University of Cyprus",
+      1
+    ],
+    [
+      "Mahanakorn University of Technology",
+      1
+    ],
+    [
+      "Northumbria University",
+      1
+    ],
+    [
+      "University of Rennes",
+      1
+    ],
+    [
+      "FernUniversität Hagen",
+      1
+    ],
+    [
+      "Gregor Mendel Institute",
+      1
+    ],
+    [
+      "University of Limoges",
+      1
+    ],
+    [
+      "Anschutz Entertainment Group",
+      1
+    ],
+    [
+      "Institute of Cancer Research",
+      1
+    ],
+    [
+      "Center for Advanced Biotechnology and Medicine",
+      1
+    ],
+    [
+      "University of Texas MD Anderson Cancer Center",
+      1
+    ],
+    [
+      "University of Wisconsin",
+      1
+    ],
+    [
+      "NEC Corporation of America",
+      1
+    ],
+    [
+      "Ross School of Business",
+      1
+    ],
+    [
+      "Sirim",
+      1
+    ],
+    [
+      "Hewlett-Packard Labs",
+      1
+    ],
+    [
+      "Central Food Technological Research Institute",
+      1
+    ],
+    [
+      "Veer Bahadur Singh Purvanchal University",
+      1
+    ],
+    [
+      "Intermec",
+      1
+    ],
+    [
+      "University of West Florida",
+      1
+    ],
+    [
+      "University of West Virginia",
+      1
+    ],
+    [
+      "University of Graz",
+      1
+    ],
+    [
+      "Maryland Univ.",
+      1
+    ],
+    [
+      "IBM Zurich Res. Lab.",
+      1
+    ],
+    [
+      "Graduate School of Management",
+      1
+    ],
+    [
+      "California State University, Northridge",
+      1
+    ],
+    [
+      "Mint.com",
+      1
+    ],
+    [
+      "Microwave Development",
+      1
+    ],
+    [
+      "Submarine Signal Company",
+      1
+    ],
+    [
+      "Midwestern University",
+      1
+    ],
+    [
+      "National Physical Laboratory",
+      1
+    ],
+    [
+      "Center for Automotive Research",
+      1
+    ],
+    [
+      "Institut Charles Sadron",
+      1
+    ],
+    [
+      "Preston",
+      1
+    ],
+    [
+      "University of Southern Mississippi",
+      1
+    ],
+    [
+      "Space and Naval Warfare Systems Center Pacific",
+      1
+    ],
+    [
+      "University of Córdoba",
+      1
+    ],
+    [
+      "UPC Ireland",
+      1
+    ],
+    [
+      "University of Málaga",
+      1
+    ],
+    [
+      "Hadley Centre for Climate Prediction and Research",
+      1
+    ],
+    [
+      "Brandenburg University of Technology",
+      1
+    ],
+    [
+      "University of La Serena",
+      1
+    ],
+    [
+      "Louisiana Tech University",
+      1
+    ],
+    [
+      "Thomas Jefferson University",
+      1
+    ],
+    [
+      "Illumina",
+      1
+    ],
+    [
+      "University of Las Palmas de Gran Canaria",
+      1
+    ],
+    [
+      "New York University Tandon School of Engineering",
+      1
+    ],
+    [
+      "University of Innsbruck",
+      1
+    ],
+    [
+      "Paris Descartes University",
+      1
+    ],
+    [
+      "Moscow Power Engineering Institute",
+      1
+    ],
+    [
+      "Nanjing University of Aeronautics and Astronautics",
+      1
+    ],
+    [
+      "Indian Institute of Chemical Technology",
+      1
+    ],
+    [
+      "Avago Technologies",
+      1
+    ],
+    [
+      "Óbuda University",
+      1
+    ],
+    [
+      "Pontifical Catholic University of Chile",
+      1
+    ],
+    [
+      "University of Rome Tor Vergata",
+      1
+    ],
+    [
+      "MIT Computer Science and Artificial Intelligence Laboratory",
+      1
+    ],
+    [
+      "Defense Threat Reduction Agency",
+      1
+    ],
+    [
+      "Częstochowa University of Technology",
+      1
+    ],
+    [
+      "Edison International",
+      1
+    ],
+    [
+      "University of New Hampshire",
+      1
+    ],
+    [
+      "Max Delbrück Center for Molecular Medicine",
+      1
+    ],
+    [
+      "Zilog",
+      1
+    ],
+    [
+      "Prairie View A&M University",
+      1
+    ],
+    [
+      "University of Nicosia",
+      1
+    ],
+    [
+      "Kanazawa Medical University",
+      1
+    ],
+    [
+      "Micron Technology",
+      1
+    ],
+    [
+      "Centro Elettrotecnico Sperimentale Italiano",
+      1
+    ],
+    [
+      "VTT Technical Research Centre of Finland",
+      1
+    ],
+    [
+      "Vikram Sarabhai Space Centre",
+      1
+    ],
+    [
+      "University of Haifa",
+      1
+    ],
+    [
+      "Open University",
+      1
+    ],
+    [
+      "Danube University Krems",
+      1
+    ],
+    [
+      "Alcoa",
+      1
+    ],
+    [
+      "Occidental College",
+      1
+    ],
+    [
+      "Hewlett Packard Enterprise Labs",
+      1
+    ],
+    [
+      "Rowan University",
+      1
+    ],
+    [
+      "NASA Headquarters",
+      1
+    ],
+    [
+      "University of Tübingen",
+      1
+    ],
+    [
+      "University of Arkansas – Fort Smith",
+      1
+    ],
+    [
+      "ESL Incorporated",
+      1
+    ],
+    [
+      "Supercomputing Research Center",
+      1
+    ],
+    [
+      "College of Staten Island",
+      1
+    ],
+    [
+      "Naval Medical Center San Diego",
+      1
+    ],
+    [
+      "Tennessee Tech University",
+      1
+    ],
+    [
+      "Lahey Hospital & Medical Center",
+      1
+    ],
+    [
+      "Health and Welfare Canada",
+      1
+    ],
+    [
+      "Nexteer Automotive",
+      1
+    ],
+    [
+      "Forschungszentrum Jülich",
+      1
+    ],
+    [
+      "University of Genoa",
+      1
+    ],
+    [
+      "IRISA/INRIA",
+      1
+    ],
+    [
+      "Wellington Management Company",
+      1
+    ],
+    [
+      "Flextronics",
+      1
+    ],
+    [
+      "University of Canberra",
+      1
+    ],
+    [
+      "Mercer University School of Engineering",
+      1
+    ],
+    [
+      "King Fahd University of Petroleum and Minerals",
+      1
+    ],
+    [
+      "University of Texas Medical Branch",
+      1
+    ],
+    [
+      "University of Reading",
+      1
+    ],
+    [
+      "Idexx Laboratories",
+      1
+    ],
+    [
+      "University of Kharkiv",
+      1
+    ],
+    [
+      "Universidad de Guanajuato",
+      1
+    ],
+    [
+      "United States Military Academy",
+      1
+    ],
+    [
+      "SanDisk",
+      1
+    ],
+    [
+      "Bose Corporation",
+      1
+    ],
+    [
+      "Ural State University",
+      1
+    ],
+    [
+      "Volkswagen",
+      1
+    ],
+    [
+      "Yeshiva University",
+      1
+    ],
+    [
+      "Center for Neural Science",
+      1
+    ],
+    [
+      "University of Manchester Institute of Science and Technology",
+      1
+    ],
+    [
+      "Saha Institute of Nuclear Physics",
+      1
+    ],
+    [
+      "Centre for Development of Advanced Computing",
+      1
+    ],
+    [
+      "Suffolk University",
+      1
+    ],
+    [
+      "Université du Québec",
+      1
+    ],
+    [
+      "Delhi Technological University",
+      1
+    ],
+    [
+      "Tilburg University",
+      1
+    ],
+    [
+      "American Cancer Society",
+      1
+    ],
+    [
+      "Idaho National Lab",
+      1
+    ],
+    [
+      "Sandia Nat. Labs.",
+      1
+    ],
+    [
+      "Tera Computer Company",
+      1
+    ],
+    [
+      "BMW",
+      1
+    ],
+    [
+      "Water Resources University",
+      1
+    ],
+    [
+      "Urbana University",
+      1
+    ],
+    [
+      "Intersil",
+      1
+    ],
+    [
+      "Daegu Gyeongbuk Institute of Science and Technology",
+      1
+    ],
+    [
+      "University of Massachusetts Boston",
+      1
+    ],
+    [
+      "University of Salerno",
+      1
+    ],
+    [
+      "Illinois Natural History Survey",
+      1
+    ],
+    [
+      "Free University of Berlin",
+      1
+    ],
+    [
+      "Development corporations",
+      1
+    ],
+    [
+      "Hampden–Sydney College",
+      1
+    ],
+    [
+      "Santa Cruz Institute for Particle Physics",
+      1
+    ],
+    [
+      "University of North Texas Health Science Center",
+      1
+    ],
+    [
+      "Ross University",
+      1
+    ],
+    [
+      "Dresden University of Technology",
+      1
+    ],
+    [
+      "Vanderbilt University School of Medicine",
+      1
+    ],
+    [
+      "University of Montenegro",
+      1
+    ],
+    [
+      "Energy Institute",
+      1
+    ],
+    [
+      "MediaTech Institute",
+      1
+    ],
+    [
+      "Technical University Darmstadt",
+      1
+    ],
+    [
+      "Geneva College",
+      1
+    ],
+    [
+      "University of Niš",
+      1
+    ],
+    [
+      "Conservation International",
+      1
+    ],
+    [
+      "European Central Bank",
+      1
+    ],
+    [
+      "Telenor",
+      1
+    ],
+    [
+      "Singapore Ministry of Defence",
+      1
+    ],
+    [
+      "Institute of Molecular Biotechnology",
+      1
+    ],
+    [
+      "University of Cantabria",
+      1
+    ],
+    [
+      "VMware",
+      1
+    ],
+    [
+      "Genome Institute of Singapore",
+      1
+    ],
+    [
+      "Ajou University",
+      1
+    ],
+    [
+      "Royal Australasian College of Surgeons",
+      1
+    ],
+    [
+      "Saint Paul University",
+      1
+    ],
+    [
+      "J. F. Oberlin University",
+      1
+    ],
+    [
+      "Malmö University",
+      1
+    ],
+    [
+      "Crystal Semicond. Corp.",
+      1
+    ],
+    [
+      "Symbol Technologies",
+      1
+    ],
+    [
+      "National Measurement Institute",
+      1
+    ],
+    [
+      "Facebook",
+      1
+    ],
+    [
+      "Chiba Institute of Technology",
+      1
+    ],
+    [
+      "Armstrong State University",
+      1
+    ],
+    [
+      "MSU Graduate School of Business Administration",
+      1
+    ],
+    [
+      "National Institute of Occupational Health",
+      1
+    ],
+    [
+      "Strategy&",
+      1
+    ],
+    [
+      "Japan Atomic Energy Agency",
+      1
+    ],
+    [
+      "Tokyo Electric Power Company",
+      1
+    ],
+    [
+      "John Innes Centre",
+      1
+    ],
+    [
+      "Dartmouth–Hitchcock Medical Center",
+      1
+    ],
+    [
+      "University of Fukui",
+      1
+    ],
+    [
+      "University of Debrecen",
+      1
+    ],
+    [
+      "Imperial College School of Medicine",
+      1
+    ],
+    [
+      "FHI 360",
+      1
+    ],
+    [
+      "Ehime University",
+      1
+    ],
+    [
+      "Bell Canada",
+      1
+    ],
+    [
+      "Seconda Università degli Studi di Napoli",
+      1
+    ],
+    [
+      "Burdwan Medical College",
+      1
+    ],
+    [
+      "Salt River Project",
+      1
+    ],
+    [
+      "PEC University of Technology",
+      1
+    ],
+    [
+      "University of Lyon",
+      1
+    ],
+    [
+      "Technische Universität Ilmenau",
+      1
+    ],
+    [
+      "Ktech Corporation",
+      1
+    ],
+    [
+      "International Motor Contest Association",
+      1
+    ],
+    [
+      "Institute for the Psychological Sciences",
+      1
+    ],
+    [
+      "Eastern Mediterranean University",
+      1
+    ],
+    [
+      "KEK",
+      1
+    ],
+    [
+      "Chukyo University",
+      1
+    ],
+    [
+      "University of Skövde",
+      1
+    ],
+    [
+      "Brock University",
+      1
+    ],
+    [
+      "University of Buenos Aires",
+      1
+    ],
+    [
+      "Applied Signal Technology, Inc.",
+      1
+    ],
+    [
+      "Pan American Petroleum and Transport Company",
+      1
+    ],
+    [
+      "Xilinx",
+      1
+    ],
+    [
+      "Boeing Commercial Airplanes",
+      1
+    ],
+    [
+      "Sun Yat-sen University",
+      1
+    ],
+    [
+      "University of Montana",
+      1
+    ],
+    [
+      "SEMATECH",
+      1
+    ],
+    [
+      "Shanghai University of Electric Power",
+      1
+    ],
+    [
+      "Texas State University",
+      1
+    ],
+    [
+      "TriQuint Semiconductor",
+      1
+    ],
+    [
+      "Shimane University",
+      1
+    ],
+    [
+      "Mitsubishi Chemical Corporation",
+      1
+    ],
+    [
+      "National Cancer Research Institute",
+      1
+    ],
+    [
+      "Institute of Medical Science",
+      1
+    ],
+    [
+      "Japan Atomic Energy Research Institute",
+      1
+    ],
+    [
+      "Panasonic",
+      1
+    ],
+    [
+      "University of Veterinary Medicine Vienna",
+      1
+    ],
+    [
+      "Nagoya City University",
+      1
+    ],
+    [
+      "National University of La Plata",
+      1
+    ],
+    [
+      "ZymoGenetics",
+      1
+    ],
+    [
+      "University of Western Sydney",
+      1
+    ],
+    [
+      "Humboldt University of Berlin",
+      1
+    ],
+    [
+      "Copenhagen Business School",
+      1
+    ],
+    [
+      "EBS Limited",
+      1
+    ],
+    [
+      "University of Duisburg-Essen",
+      1
+    ],
+    [
+      "Universidade Federal de Minas Gerais",
+      1
+    ],
+    [
+      "Southern Illinois University Carbondale",
+      1
+    ],
+    [
+      "Center for Drug Evaluation and Research",
+      1
+    ],
+    [
+      "Thorn",
+      1
+    ],
+    [
+      "Plymouth University",
+      1
+    ],
+    [
+      "Darmstadt University of Technology",
+      1
+    ],
+    [
+      "University College Hospital",
+      1
+    ],
+    [
+      "HortResearch",
+      1
+    ],
+    [
+      "Hong Kong Applied Science and Technology Research Institute",
+      1
+    ],
+    [
+      "Rosenstiel School of Marine and Atmospheric Science",
+      1
+    ],
+    [
+      "Ohio Agricultural Research and Development Center",
+      1
+    ],
+    [
+      "National Taiwan Normal University",
+      1
+    ],
+    [
+      "Hebei University",
+      1
+    ],
+    [
+      "Amgen",
+      1
+    ],
+    [
+      "Shandong University",
+      1
+    ],
+    [
+      "AT&T Communications",
+      1
+    ],
+    [
+      "Rafael Advanced Defense Systems",
+      1
+    ],
+    [
+      "San Jose State University",
+      1
+    ],
+    [
+      "Ofcom",
+      1
+    ],
+    [
+      "Faculty of Information Technology, University Džemal Bijedić of Mostar",
+      1
+    ],
+    [
+      "Swarthmore College",
+      1
+    ],
+    [
+      "Goethe University Frankfurt",
+      1
+    ],
+    [
+      "Institut national de la recherche agronomique",
+      1
+    ],
+    [
+      "Technology Concepts Inc.",
+      1
+    ],
+    [
+      "Raytheon Polar Services Company",
+      1
+    ],
+    [
+      "Alpert Medical School",
+      1
+    ],
+    [
+      "Norwich Medical School",
+      1
+    ],
+    [
+      "Marine Biological Laboratory",
+      1
+    ],
+    [
+      "Credence Systems",
+      1
+    ],
+    [
+      "Norwegian Institute of Public Health",
+      1
+    ],
+    [
+      "Novo Nordisk",
+      1
+    ],
+    [
+      "Charles Sturt University",
+      1
+    ],
+    [
+      "California University",
+      1
+    ],
+    [
+      "NIKSUN",
+      1
+    ],
+    [
+      "National Nuclear Data Center",
+      1
+    ],
+    [
+      "New York University School of Medicine",
+      1
+    ],
+    [
+      "White Oak Conservation",
+      1
+    ],
+    [
+      "Bundeswehr University Munich",
+      1
+    ],
+    [
+      "Mobil",
+      1
+    ],
+    [
+      "Santa Fe Institute",
+      1
+    ],
+    [
+      "National Research Council Canada",
+      1
+    ],
+    [
+      "United States Army Corps of Engineers",
+      1
+    ],
+    [
+      "China University of Geosciences",
+      1
+    ],
+    [
+      "Desert Research Institute",
+      1
+    ],
+    [
+      "Beijing Institute of Technology",
+      1
+    ],
+    [
+      "Henan Normal University",
+      1
+    ],
+    [
+      "University of Science and Technology of China",
+      1
+    ],
+    [
+      "Iona College",
+      1
+    ],
+    [
+      "Hamamatsu Photonics",
+      1
+    ],
+    [
+      "Shibaura Institute of Technology",
+      1
+    ],
+    [
+      "OGI School of Science and Engineering",
+      1
+    ],
+    [
+      "Taipei Medical University",
+      1
+    ],
+    [
+      "Kurume University",
+      1
+    ],
+    [
+      "National Aviation University",
+      1
+    ],
+    [
+      "ITER",
+      1
+    ],
+    [
+      "Singapore University of Technology and Design",
+      1
+    ],
+    [
+      "St. Lawrence University",
+      1
+    ],
+    [
+      "Institute Of Microelectronics, Singapore",
+      1
+    ],
+    [
+      "Towson University",
+      1
+    ],
+    [
+      "Chinese Center for Disease Control and Prevention",
+      1
+    ],
+    [
+      "NTT Communications Corp",
+      1
+    ],
+    [
+      "University of Regensburg",
+      1
+    ],
+    [
+      "University of Modena and Reggio Emilia",
+      1
+    ],
+    [
+      "ENVIRON",
+      1
+    ],
+    [
+      "Varian Medical Systems",
+      1
+    ],
+    [
+      "Zhengzhou University",
+      1
+    ],
+    [
+      "Banting and Best Department of Medical Research",
+      1
+    ],
+    [
+      "Illinois State University",
+      1
+    ],
+    [
+      "China Agricultural University",
+      1
+    ],
+    [
+      "UCLA",
+      1
+    ],
+    [
+      "Wilmington University",
+      1
+    ],
+    [
+      "Temple University School of Medicine",
+      1
+    ],
+    [
+      "Virage Logic",
+      1
+    ],
+    [
+      "AOL",
+      1
+    ]
+  ]
+}
