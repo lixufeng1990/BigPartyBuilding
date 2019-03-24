@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58eb976e-dd42-4acd-a5c9-de98bdb1f5bd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/zhitu/IEEE/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhitu/IEEE/data/acm_tongji_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhitu/IEEE/data/ieee_tongji_data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhitu/IEEE/data/ieee_tongji_data_v2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhitu/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zhitu/caller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BigPartyBuilding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BigPartyBuilding.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rencai/IEEEFellow/dataAnalysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/rencai/IEEEFellow/dataAnalysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rencai/IEEEFellow/tongji.json" beforeDir="false" afterPath="$PROJECT_DIR$/rencai/IEEEFellow/tongji.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py" beforeDir="false" afterPath="$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhitu/IEEE/ieee_statistics.json" beforeDir="false" afterPath="$PROJECT_DIR$/zhitu/IEEE/ieee_statistics.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="fellow_statics.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fellow_statics.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="43" column="91" lean-forward="true" selection-start-line="43" selection-start-column="91" selection-end-line="43" selection-end-column="91" />
+            <state relative-caret-position="1905">
+              <caret line="127" column="67" lean-forward="true" selection-start-line="127" selection-start-column="67" selection-end-line="127" selection-end-column="67" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -34,14 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dataAnalysis.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/dataAnalysis.py">
+      <file leaf-file-name="tongji.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/tongji.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="42" column="55" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="55" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="411">
+              <caret line="7221" column="29" selection-start-line="7221" selection-start-column="6" selection-end-line="7221" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -49,17 +41,17 @@
       <file leaf-file-name="ieee_statistics.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/zhitu/IEEE/ieee_statistics.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-327">
-              <caret column="124007" selection-start-column="124007" selection-end-column="124007" />
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="230" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ieee_tongji_data_v2.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zhitu/IEEE/data/ieee_tongji_data_v2.json">
+      <file leaf-file-name="ieee_plot_data.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zhitu/IEEE/ieee_plot_data.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="177" column="15" selection-start-line="177" selection-start-column="2" selection-end-line="177" selection-end-column="15" />
+            <state relative-caret-position="180">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -75,12 +67,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>江颖</find>
-      <find>赖耘</find>
-      <find>刘雳宇</find>
-      <find>姚明光</find>
-      <find>翟荟</find>
-      <find>陈弓</find>
       <find>陈填烽</find>
       <find>程义云</find>
       <find>戴新华</find>
@@ -105,6 +91,12 @@
       <find>sim_rank</find>
       <find>4025.71</find>
       <find>&quot;sim_rank&quot;: 0</find>
+      <find>tongji</find>
+      <find>avg_pubs_keys</find>
+      <find>&quot;</find>
+      <find>&quot;sorte</find>
+      <find>fellows</find>
+      <find>&quot;phd</find>
     </findStrings>
     <replaceStrings>
       <replace>中共党员</replace>
@@ -137,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rencai/interface/picture" />
         <option value="$PROJECT_DIR$/rencai/interface/search_by_15th_qingke.json" />
         <option value="$PROJECT_DIR$/rencai/guiji/transform.py" />
         <option value="$PROJECT_DIR$/rencai/guiji/analysis.py" />
@@ -181,17 +172,18 @@
         <option value="$PROJECT_DIR$/zuzhi/data/all_province_total.json" />
         <option value="$PROJECT_DIR$/zuzhi/data/all_info.json" />
         <option value="$PROJECT_DIR$/zuzhi/bin/getData.py" />
-        <option value="$PROJECT_DIR$/rencai/IEEEFellow/tongji.json" />
-        <option value="$PROJECT_DIR$/rencai/IEEEFellow/dataAnalysis.py" />
         <option value="$PROJECT_DIR$/rencai/IEEEFellow/fellow_paper_year_count_2.json" />
         <option value="$PROJECT_DIR$/zhitu/caller.py" />
         <option value="$PROJECT_DIR$/zhitu/IEEE/data/ieee_tongji_data_v2.json" />
         <option value="$PROJECT_DIR$/zhitu/IEEE/ieee_statistics.json" />
         <option value="$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py" />
+        <option value="$PROJECT_DIR$/rencai/IEEEFellow/dataAnalysis.py" />
+        <option value="$PROJECT_DIR$/rencai/IEEEFellow/tongji.json" />
+        <option value="$PROJECT_DIR$/zhitu/IEEE/ieee_plot_data.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -251,7 +243,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../act-kexie-big" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -280,7 +272,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fellow_statics">
+  <component name="RunManager" selected="Python.dataAnalysis">
     <configuration name="dataAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BigPartyBuilding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -323,8 +315,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fellow_statics" />
         <item itemvalue="Python.dataAnalysis" />
+        <item itemvalue="Python.fellow_statics" />
       </list>
     </recent_temporary>
   </component>
@@ -342,17 +334,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18181819" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2509091" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27878788" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32925472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32369298" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32363635" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -370,17 +361,22 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="7" />
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rencai/guiji/yuanshi_experiences.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020">
-          <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/envs/tech/lib/python3.6/codecs.py" />
     <entry file="file://$PROJECT_DIR$/rencai/interface/selected_yuanshi_info.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -602,23 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="e#23#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/fellow_paper_year_count_2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31247">
-          <caret line="2904" column="18" selection-start-line="2904" selection-start-column="3" selection-end-line="2904" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/ieee_fellow_new.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-694">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -629,44 +608,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/tongji.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="6" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zhitu/IEEE/data/ieee_tongji_data_v2.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
+        <state relative-caret-position="2655">
           <caret line="177" column="15" selection-start-line="177" selection-start-column="2" selection-end-line="177" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zhitu/IEEE/ieee_statistics.json">
+    <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/fellow_paper_year_count_2.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-327">
-          <caret column="124007" selection-start-column="124007" selection-end-column="124007" />
+        <state relative-caret-position="805">
+          <caret line="2904" column="18" selection-start-line="2904" selection-start-column="3" selection-end-line="2904" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/ieee_fellow_new.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/dataAnalysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="42" column="55" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="55" />
+        <state relative-caret-position="177">
+          <caret line="54" column="21" lean-forward="true" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/rencai/IEEEFellow/tongji.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="7221" column="29" selection-start-line="7221" selection-start-column="6" selection-end-line="7221" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="43" column="91" lean-forward="true" selection-start-line="43" selection-start-column="91" selection-end-line="43" selection-end-column="91" />
+        <state relative-caret-position="1905">
+          <caret line="127" column="67" lean-forward="true" selection-start-line="127" selection-start-column="67" selection-end-line="127" selection-end-column="67" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhitu/IEEE/ieee_statistics.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhitu/IEEE/ieee_plot_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
