@@ -1,0 +1,4882 @@
+{
+  "数据挖掘": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "机器学习": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "计算机安全": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "操作系统": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "分布式计算": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "计算科学": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "自然语言处理": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "数据库": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "软件工程": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  },
+  "计算机系统结构": {
+    "project": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "project": 15
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "project": 10
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "project": 23
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "project": 25
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "project": 3
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "project": 41
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "project": 28
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "project": 86
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "project": 17
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "project": 54
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "project": 243
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "project": 15
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "project": 92
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "project": 2064
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "project": 484
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "project": 3
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "project": 29
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "project": 166
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "project": 4
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "project": 0
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "project": 75
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "project": 34
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "project": 80
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "project": 18
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "project": 43
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "project": 9
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "project": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "project": 119
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "project": 108
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "project": 3
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "project": 47
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "project": 192
+      }
+    ],
+    "patent": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "patent": 24
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "patent": 43
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "patent": 147
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "patent": 164
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "patent": 30
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "patent": 138
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "patent": 127
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "patent": 176
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "patent": 53
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "patent": 148
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "patent": 712
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "patent": 48
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "patent": 388
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "patent": 7711
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "patent": 1820
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "patent": 0
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "patent": 59
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "patent": 652
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "patent": 1
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "patent": 2
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "patent": 137
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "patent": 96
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "patent": 369
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "patent": 12
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "patent": 92
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "patent": 16
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "patent": 1
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "patent": 522
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "patent": 514
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "patent": 1
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "patent": 131
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "patent": 1088
+      }
+    ],
+    "paper": [
+      {
+        "name": "内蒙古",
+        "people": 24,
+        "paper": 128
+      },
+      {
+        "name": "山西",
+        "people": 37,
+        "paper": 138
+      },
+      {
+        "name": "吉林",
+        "people": 87,
+        "paper": 501
+      },
+      {
+        "name": "天津",
+        "people": 78,
+        "paper": 469
+      },
+      {
+        "name": "河北",
+        "people": 58,
+        "paper": 296
+      },
+      {
+        "name": "福建",
+        "people": 85,
+        "paper": 542
+      },
+      {
+        "name": "黑龙江",
+        "people": 104,
+        "paper": 650
+      },
+      {
+        "name": "湖南",
+        "people": 226,
+        "paper": 2620
+      },
+      {
+        "name": "贵州",
+        "people": 30,
+        "paper": 88
+      },
+      {
+        "name": "安徽",
+        "people": 104,
+        "paper": 969
+      },
+      {
+        "name": "湖北",
+        "people": 295,
+        "paper": 3697
+      },
+      {
+        "name": "甘肃",
+        "people": 33,
+        "paper": 254
+      },
+      {
+        "name": "广东",
+        "people": 177,
+        "paper": 1361
+      },
+      {
+        "name": "全国",
+        "people": 3900,
+        "paper": 35895
+      },
+      {
+        "name": "北京",
+        "people": 621,
+        "paper": 7960
+      },
+      {
+        "name": "西藏",
+        "people": 2,
+        "paper": 12
+      },
+      {
+        "name": "云南",
+        "people": 25,
+        "paper": 187
+      },
+      {
+        "name": "上海",
+        "people": 322,
+        "paper": 3518
+      },
+      {
+        "name": "新疆",
+        "people": 17,
+        "paper": 127
+      },
+      {
+        "name": "青海",
+        "people": 6,
+        "paper": 20
+      },
+      {
+        "name": "辽宁",
+        "people": 159,
+        "paper": 1065
+      },
+      {
+        "name": "重庆",
+        "people": 76,
+        "paper": 522
+      },
+      {
+        "name": "四川",
+        "people": 233,
+        "paper": 1859
+      },
+      {
+        "name": "江西",
+        "people": 33,
+        "paper": 317
+      },
+      {
+        "name": "河南",
+        "people": 66,
+        "paper": 459
+      },
+      {
+        "name": "广西",
+        "people": 22,
+        "paper": 120
+      },
+      {
+        "name": "海南",
+        "people": 4,
+        "paper": 35
+      },
+      {
+        "name": "浙江",
+        "people": 176,
+        "paper": 1701
+      },
+      {
+        "name": "陕西",
+        "people": 258,
+        "paper": 2336
+      },
+      {
+        "name": "宁夏",
+        "people": 5,
+        "paper": 19
+      },
+      {
+        "name": "山东",
+        "people": 97,
+        "paper": 611
+      },
+      {
+        "name": "江苏",
+        "people": 442,
+        "paper": 3326
+      }
+    ]
+  }
+}

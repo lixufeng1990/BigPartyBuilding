@@ -5,6 +5,56 @@ import codecs
 ieee_file = './data/ieee_tongji_data_v2.json'
 acm_file = 'acm_tongji_data.json'
 
+def get_ieee_tongji_dict():
+    all_fellows = json.load(codecs.open(ieee_file, 'r', encoding='utf-8'))
+    wait_years = {}
+    avg_pubs = {}
+    avg_cite = {}
+    sim_ranks = {}
+    pubs = {}
+    cites = {}
+
+    for fellow_key in all_fellows:
+        fellow = all_fellows[fellow_key]
+        if fellow['wait_year'] in wait_years:
+            wait_years[fellow['wait_year']] += 1
+        else:
+            wait_years[fellow['wait_year']] = 1
+
+        if fellow['avg_pub_num'] in avg_pubs:
+            avg_pubs[fellow['avg_pub_num']] += 1
+        else:
+            avg_pubs[fellow['avg_pub_num']] = 1
+
+        if fellow['avg_cite_num'] in avg_cite:
+            avg_cite[fellow['avg_cite_num']] += 1
+        else:
+            avg_cite[fellow['avg_cite_num']] = 1
+
+        if fellow['sim_rank'] in sim_ranks:
+            sim_ranks[fellow['sim_rank']] += 1
+        else:
+            sim_ranks[fellow['sim_rank']] = 1
+
+        if fellow['pub_num'] in pubs:
+            pubs[fellow['pub_num']] += 1
+        else:
+            pubs[fellow['pub_num']] = 1
+
+        if fellow['cite_num'] in cites:
+            cites[fellow['cite_num']] += 1
+        else:
+            cites[fellow['cite_num']] = 1
+
+    return {
+            'wait_years':wait_years,
+            'avg_pubs':avg_pubs,
+            'avg_cite':avg_cite,
+            'sim_ranks':sim_ranks,
+            'pubs':pubs,
+            'cites':cites
+            }
+
 def get_ieee_tongji():
     all_fellows = json.load(codecs.open(ieee_file, 'r', encoding='utf-8'))
     wait_years = {}
@@ -145,21 +195,37 @@ def get_sim_rank_plot_data(tongji_data):
 
 
 if __name__ == '__main__':
-    # json.dump(get_ieee_tongji(), codecs.open('ieee_statistics.json', 'w', encoding='utf-8'), ensure_ascii=False)
-    get_ieee_tongji = get_ieee_tongji()
-    ploat_data = {}
-    #统计平均论文数
-    avg_pub_plot = get_avg_pub_plot_data(get_ieee_tongji)
-    ploat_data['avg_pub_plot_x'] = avg_pub_plot['avg_pub_plot_x']
-    ploat_data['avg_pub_plot_y'] = avg_pub_plot['avg_pub_plot_y']
-    #统计平均引用数
-    avg_cite_plot = get_plot_data(get_ieee_tongji, "avg_cite_keys", "avg_cite_values", 1000, 100)
-    ploat_data['avg_cite_plot_x'] = avg_cite_plot['avg_plot_x']
-    ploat_data['avg_cite_plot_y'] = avg_cite_plot['avg_plot_y']
-    # 统计相似数
-    avg_sim_plot = get_sim_rank_plot_data(get_ieee_tongji)
-    ploat_data['avg_sim_plot_x'] = avg_sim_plot['avg_sim_plot_x']
-    ploat_data['avg_sim_plot_y'] = avg_sim_plot['avg_sim_plot_y']
+    # json.dump(get_ieee_tongji_dict(), codecs.open('ieee_statistics_dict.json', 'w', encoding='utf-8'), ensure_ascii=False)
+    all_tongji = get_ieee_tongji_dict()
+    sorted_pus = sorted(all_tongji['pubs'].items(),key = lambda x:x[0],reverse = False)
+    print(sorted_pus)
+    pubs_x = [x[0] for x in sorted_pus][:30]
+    pubs_y = [x[1]+10 for x in sorted_pus][:30]
+    print(pubs_x)
+    print(pubs_y)
+    sorted_cites = sorted(all_tongji['cites'].items(), key=lambda x:x[1], reverse= True)
+    print(sorted_cites)
+    cites_x = [x[0] for x in sorted_cites][:30]
+    cites_y = [x[1] for x in sorted_cites][:30]
+    print(cites_x)
+    print(cites_y)
 
-    json.dump(ploat_data, codecs.open('ieee_plot_data.json', 'w', encoding='utf-8'), ensure_ascii=False)
+
+    # json.dump(get_ieee_tongji(), codecs.open('ieee_statistics.json', 'w', encoding='utf-8'), ensure_ascii=False)
+    # get_ieee_tongji = get_ieee_tongji()
+    # ploat_data = {}
+    # #统计平均论文数
+    # avg_pub_plot = get_avg_pub_plot_data(get_ieee_tongji)
+    # ploat_data['avg_pub_plot_x'] = avg_pub_plot['avg_pub_plot_x']
+    # ploat_data['avg_pub_plot_y'] = avg_pub_plot['avg_pub_plot_y']
+    # #统计平均引用数
+    # avg_cite_plot = get_plot_data(get_ieee_tongji, "avg_cite_keys", "avg_cite_values", 1000, 100)
+    # ploat_data['avg_cite_plot_x'] = avg_cite_plot['avg_plot_x']
+    # ploat_data['avg_cite_plot_y'] = avg_cite_plot['avg_plot_y']
+    # # 统计相似数
+    # avg_sim_plot = get_sim_rank_plot_data(get_ieee_tongji)
+    # ploat_data['avg_sim_plot_x'] = avg_sim_plot['avg_sim_plot_x']
+    # ploat_data['avg_sim_plot_y'] = avg_sim_plot['avg_sim_plot_y']
+    #
+    # json.dump(ploat_data, codecs.open('ieee_plot_data.json', 'w', encoding='utf-8'), ensure_ascii=False)
 
