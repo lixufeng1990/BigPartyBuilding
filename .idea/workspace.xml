@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58eb976e-dd42-4acd-a5c9-de98bdb1f5bd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/rencaiku/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rencaiku/bin/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rencaiku/bin/schema_generate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rencaiku/bin/schema_transfer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rencaiku/data/expert_tj.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rencaiku/data/rencai_properties.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rencaiku/data/rencai_schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rencaiku/bin/products_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rencaiku/bin/products_distribute.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rencaiku/data/expert_product_stat_result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +16,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="schema_generate.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rencaiku/bin/schema_generate.py">
+      <file leaf-file-name="products_build.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rencaiku/bin/products_build.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="146" column="74" lean-forward="true" selection-start-line="146" selection-start-column="74" selection-end-line="146" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#2035#2043#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="expert_product_stat_result.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rencaiku/data/expert_product_stat_result.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+              <caret line="727" column="5" selection-start-line="727" selection-start-column="5" selection-end-line="727" selection-end-column="5" />
+              <folding>
+                <element signature="n#!!block;n#paper_stats#0;n#!!top" />
+                <element signature="n#!!block;n#patent_stats#0;n#!!top" />
+                <element signature="n#!!block;n#project_stats#0;n#!!top" />
+                <element signature="n#!!block;n#award_stats#0;n#!!top" />
+                <element signature="n#!!block;n#book_stats#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="products_distribute.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rencaiku/bin/products_distribute.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -32,47 +57,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="schema_transfer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rencaiku/bin/schema_transfer.py">
+      <file leaf-file-name="expert_product_stat_build.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rencaiku/data/expert_product_stat_build.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="752">
+              <caret line="93" column="16" lean-forward="true" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sorted_expert_product_stat_result.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rencaiku/data/sorted_expert_product_stat_result.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <caret line="1413" column="16" selection-start-line="1413" selection-start-column="3" selection-end-line="1413" selection-end-column="16" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rencai_schema.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rencaiku/data/rencai_schema.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rencai_properties.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rencaiku/data/rencai_properties.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="expert_tj.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rencaiku/data/expert_tj.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-              <folding>
-                <element signature="n#!!block;n#expert_project_by_ceet#0;n#!!top" />
-                <element signature="n#!!block;n#expert_project_by_jjw#0;n#!!top" />
-                <element signature="n#!!block;n#expert_paper_by_ceet#0;n#!!top" />
-                <element signature="n#!!block;n#expert_paper_by_wf_paper#0;n#!!top" />
-                <element signature="n#!!block;n#expert_patent_by_ceet#0;n#!!top" />
+                <element signature="e#19#12435#0" />
+                <element signature="e#12455#24871#0" />
               </folding>
             </state>
           </provider>
@@ -89,10 +90,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>曲镝</find>
-      <find>科协</find>
-      <find>Austria</find>
-      <find>2000</find>
       <find>2013</find>
       <find>51</find>
       <find>Smith</find>
@@ -119,6 +116,10 @@
       <find>&quot;pub_num&quot;: 1</find>
       <find>&quot;pub_num&quot;: 1,</find>
       <find>河南省</find>
+      <find>paper_stats</find>
+      <find>paper</find>
+      <find>award</find>
+      <find>product</find>
     </findStrings>
     <replaceStrings>
       <replace>中共党员</replace>
@@ -145,6 +146,11 @@
       <replace>province</replace>
       <replace>河南</replace>
       <replace>北京</replace>
+      <replace>patent</replace>
+      <replace>award_stats</replace>
+      <replace>award</replace>
+      <replace>product</replace>
+      <replace>project</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -153,10 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/data/back/all_shiye_people.json" />
-        <option value="$PROJECT_DIR$/ganbu/interface/departments" />
-        <option value="$PROJECT_DIR$/ganbu/interface/searchEngine.py" />
-        <option value="$PROJECT_DIR$/ganbu/interface/search_result_by_department_and_quanbu.json" />
         <option value="$PROJECT_DIR$/rencai/interface/search_by_15th_qingke_v1.json" />
         <option value="$PROJECT_DIR$/rencai/interface/search_by_15th_qingke_v2.json" />
         <option value="$PROJECT_DIR$/rencai/interface/searchEngine.py" />
@@ -204,6 +206,10 @@
         <option value="$PROJECT_DIR$/rencaiku/data/rencai_schema.json" />
         <option value="$PROJECT_DIR$/rencaiku/bin/schema_generate.py" />
         <option value="$PROJECT_DIR$/rencaiku/bin/schema_transfer.py" />
+        <option value="$PROJECT_DIR$/rencaiku/bin/products_distribute.py" />
+        <option value="$PROJECT_DIR$/rencaiku/data/sorted_expert_product_stat_result.json" />
+        <option value="$PROJECT_DIR$/rencaiku/bin/products_build.py" />
+        <option value="$PROJECT_DIR$/rencaiku/data/expert_product_stat_build.json" />
       </list>
     </option>
   </component>
@@ -227,11 +233,6 @@
             <path>
               <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
               <item name="BigPartyBuilding" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BigPartyBuilding" type="462c0819:PsiDirectoryNode" />
-              <item name="rencai" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BigPartyBuilding" type="b2602c69:ProjectViewProjectNode" />
@@ -292,25 +293,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.schema_transfer">
-    <configuration name="dataAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BigPartyBuilding" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rencai/IEEEFellow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rencai/IEEEFellow/dataAnalysis.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.products_build">
     <configuration name="data_process" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BigPartyBuilding" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -329,7 +312,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="fellow_statics" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="products_build" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BigPartyBuilding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -337,11 +320,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/zhitu/IEEE" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rencaiku/bin" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/zhitu/IEEE/fellow_statics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rencaiku/bin/products_build.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="products_distribute" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BigPartyBuilding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/rencaiku/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rencaiku/bin/products_distribute.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -384,19 +385,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.dataAnalysis" />
-      <item itemvalue="Python.fellow_statics" />
       <item itemvalue="Python.data_process" />
       <item itemvalue="Python.schema_generate" />
       <item itemvalue="Python.schema_transfer" />
+      <item itemvalue="Python.products_distribute" />
+      <item itemvalue="Python.products_build" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.products_build" />
+        <item itemvalue="Python.products_distribute" />
         <item itemvalue="Python.schema_transfer" />
         <item itemvalue="Python.schema_generate" />
         <item itemvalue="Python.data_process" />
-        <item itemvalue="Python.fellow_statics" />
-        <item itemvalue="Python.dataAnalysis" />
       </list>
     </recent_temporary>
   </component>
@@ -420,11 +421,11 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20930232" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27878788" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27878788" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32848486" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32242423" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32242423" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -449,42 +450,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rencai/data/all_female_scientists.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rencai/data/all_qingke.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2961">
-          <caret line="141" column="29" lean-forward="true" selection-start-line="141" selection-start-column="29" selection-end-line="141" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rencai/interface/data_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rencai/data/15th_qingke_candidate.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="70" column="4" lean-forward="true" selection-start-line="70" selection-start-column="4" selection-end-line="70" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rencai/data/5_wei_analysis.json" />
-    <entry file="file://$PROJECT_DIR$/rencai/data/all_yuanshi.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1711" column="22" lean-forward="true" selection-start-line="1711" selection-start-column="22" selection-end-line="1711" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rencai/data/get_5_wei_analysis.json" />
     <entry file="file://$PROJECT_DIR$/zuzhi/data/load_nongjixie.json">
       <provider selected="true" editor-type-id="text-editor">
@@ -780,23 +745,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rencaiku/bin/schema_generate.py">
+    <entry file="file://$PROJECT_DIR$/rencaiku/bin/schema_transfer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="18" selection-end-column="95" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rencaiku/bin/schema_transfer.py">
+    <entry file="file://$USER_HOME$/anaconda3/envs/tech/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="904" lean-forward="true" selection-start-line="904" selection-end-line="904" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rencaiku/bin/schema_generate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <caret line="3" column="17" selection-end-line="30" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rencaiku/data/expert_product_stat_result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="727" column="5" selection-start-line="727" selection-start-column="5" selection-end-line="727" selection-end-column="5" />
+          <folding>
+            <element signature="n#!!block;n#paper_stats#0;n#!!top" />
+            <element signature="n#!!block;n#patent_stats#0;n#!!top" />
+            <element signature="n#!!block;n#project_stats#0;n#!!top" />
+            <element signature="n#!!block;n#award_stats#0;n#!!top" />
+            <element signature="n#!!block;n#book_stats#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rencaiku/bin/products_distribute.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rencaiku/data/sorted_expert_product_stat_result.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="1413" column="16" selection-start-line="1413" selection-start-column="3" selection-end-line="1413" selection-end-column="16" />
+          <folding>
+            <element signature="e#19#12435#0" />
+            <element signature="e#12455#24871#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rencaiku/bin/products_build.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="146" column="74" lean-forward="true" selection-start-line="146" selection-start-column="74" selection-end-line="146" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#2035#2043#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rencaiku/data/expert_product_stat_build.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="93" column="16" lean-forward="true" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
         </state>
       </provider>
     </entry>
