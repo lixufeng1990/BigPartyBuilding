@@ -1,0 +1,1670 @@
+{
+  "name": "属性集",
+  "children": [
+    {
+      "name": "award",
+      "children": [
+        {
+          "name": "_id",
+          "children": []
+        },
+        {
+          "name": "id",
+          "children": []
+        },
+        {
+          "name": "autoDelete",
+          "children": []
+        },
+        {
+          "name": "unionId",
+          "children": []
+        },
+        {
+          "name": "candidateId",
+          "children": []
+        },
+        {
+          "name": "resourceId",
+          "children": []
+        },
+        {
+          "name": "title",
+          "children": []
+        },
+        {
+          "name": "titleAlt",
+          "children": []
+        },
+        {
+          "name": "creator",
+          "children": []
+        },
+        {
+          "name": "creatorAlt",
+          "children": []
+        },
+        {
+          "name": "creatorAll",
+          "children": []
+        },
+        {
+          "name": "keyword",
+          "children": []
+        },
+        {
+          "name": "keywordAlt",
+          "children": []
+        },
+        {
+          "name": "institute",
+          "children": []
+        },
+        {
+          "name": "instituteAll",
+          "children": []
+        },
+        {
+          "name": "year",
+          "children": []
+        },
+        {
+          "name": "subject",
+          "children": []
+        },
+        {
+          "name": "province",
+          "children": []
+        },
+        {
+          "name": "city",
+          "children": []
+        },
+        {
+          "name": "language",
+          "children": []
+        },
+        {
+          "name": "resourceCode",
+          "children": []
+        },
+        {
+          "name": "page",
+          "children": []
+        },
+        {
+          "name": "doi",
+          "children": []
+        },
+        {
+          "name": "issue",
+          "children": []
+        },
+        {
+          "name": "creatorId",
+          "children": []
+        },
+        {
+          "name": "url",
+          "children": []
+        },
+        {
+          "name": "isCore",
+          "children": []
+        },
+        {
+          "name": "conferenceName",
+          "children": []
+        },
+        {
+          "name": "address",
+          "children": []
+        },
+        {
+          "name": "issn",
+          "children": []
+        },
+        {
+          "name": "isbn",
+          "children": []
+        },
+        {
+          "name": "tutor",
+          "children": []
+        },
+        {
+          "name": "degree",
+          "children": []
+        },
+        {
+          "name": "publisher",
+          "children": []
+        },
+        {
+          "name": "patentNo",
+          "children": []
+        },
+        {
+          "name": "owner",
+          "children": []
+        },
+        {
+          "name": "applicationNo",
+          "children": []
+        },
+        {
+          "name": "type",
+          "children": []
+        },
+        {
+          "name": "applicationDate",
+          "children": []
+        },
+        {
+          "name": "publicationDate",
+          "children": []
+        },
+        {
+          "name": "volume",
+          "children": []
+        },
+        {
+          "name": "source",
+          "children": []
+        },
+        {
+          "name": "journal",
+          "children": []
+        },
+        {
+          "name": "domain",
+          "children": []
+        },
+        {
+          "name": "languageStandard",
+          "children": []
+        },
+        {
+          "name": "priority",
+          "children": []
+        },
+        {
+          "name": "creatorStandard",
+          "children": []
+        },
+        {
+          "name": "projectNo",
+          "children": []
+        },
+        {
+          "name": "projectFund",
+          "children": []
+        },
+        {
+          "name": "projectOrigin",
+          "children": []
+        },
+        {
+          "name": "projectReward",
+          "children": []
+        },
+        {
+          "name": "instituteStandard",
+          "children": []
+        },
+        {
+          "name": "resourceIds",
+          "children": []
+        },
+        {
+          "name": "teamMemberName",
+          "children": []
+        },
+        {
+          "name": "teamMemberKId",
+          "children": []
+        },
+        {
+          "name": "teamMemberWeight",
+          "children": []
+        },
+        {
+          "name": "activityCategory",
+          "children": []
+        },
+        {
+          "name": "activityDate",
+          "children": []
+        },
+        {
+          "name": "activityBody",
+          "children": []
+        },
+        {
+          "name": "filePath",
+          "children": []
+        },
+        {
+          "name": "isSystem",
+          "children": []
+        },
+        {
+          "name": "isValid",
+          "children": []
+        },
+        {
+          "name": "isConfirmed",
+          "children": []
+        },
+        {
+          "name": "isDeleted",
+          "children": []
+        },
+        {
+          "name": "operateTime",
+          "children": []
+        },
+        {
+          "name": "source_db",
+          "children": []
+        },
+        {
+          "name": "expert_id",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "book",
+      "children": [
+        {
+          "name": "_id",
+          "children": []
+        },
+        {
+          "name": "id",
+          "children": []
+        },
+        {
+          "name": "autoDelete",
+          "children": []
+        },
+        {
+          "name": "unionId",
+          "children": []
+        },
+        {
+          "name": "candidateId",
+          "children": []
+        },
+        {
+          "name": "resourceId",
+          "children": []
+        },
+        {
+          "name": "title",
+          "children": []
+        },
+        {
+          "name": "titleAlt",
+          "children": []
+        },
+        {
+          "name": "creator",
+          "children": []
+        },
+        {
+          "name": "creatorAlt",
+          "children": []
+        },
+        {
+          "name": "creatorAll",
+          "children": []
+        },
+        {
+          "name": "keyword",
+          "children": []
+        },
+        {
+          "name": "keywordAlt",
+          "children": []
+        },
+        {
+          "name": "institute",
+          "children": []
+        },
+        {
+          "name": "instituteAll",
+          "children": []
+        },
+        {
+          "name": "year",
+          "children": []
+        },
+        {
+          "name": "subject",
+          "children": []
+        },
+        {
+          "name": "province",
+          "children": []
+        },
+        {
+          "name": "city",
+          "children": []
+        },
+        {
+          "name": "language",
+          "children": []
+        },
+        {
+          "name": "resourceCode",
+          "children": []
+        },
+        {
+          "name": "page",
+          "children": []
+        },
+        {
+          "name": "doi",
+          "children": []
+        },
+        {
+          "name": "issue",
+          "children": []
+        },
+        {
+          "name": "creatorId",
+          "children": []
+        },
+        {
+          "name": "url",
+          "children": []
+        },
+        {
+          "name": "isCore",
+          "children": []
+        },
+        {
+          "name": "conferenceName",
+          "children": []
+        },
+        {
+          "name": "address",
+          "children": []
+        },
+        {
+          "name": "issn",
+          "children": []
+        },
+        {
+          "name": "isbn",
+          "children": []
+        },
+        {
+          "name": "tutor",
+          "children": []
+        },
+        {
+          "name": "degree",
+          "children": []
+        },
+        {
+          "name": "publisher",
+          "children": []
+        },
+        {
+          "name": "patentNo",
+          "children": []
+        },
+        {
+          "name": "owner",
+          "children": []
+        },
+        {
+          "name": "applicationNo",
+          "children": []
+        },
+        {
+          "name": "type",
+          "children": []
+        },
+        {
+          "name": "applicationDate",
+          "children": []
+        },
+        {
+          "name": "publicationDate",
+          "children": []
+        },
+        {
+          "name": "volume",
+          "children": []
+        },
+        {
+          "name": "source",
+          "children": []
+        },
+        {
+          "name": "journal",
+          "children": []
+        },
+        {
+          "name": "domain",
+          "children": []
+        },
+        {
+          "name": "languageStandard",
+          "children": []
+        },
+        {
+          "name": "priority",
+          "children": []
+        },
+        {
+          "name": "creatorStandard",
+          "children": []
+        },
+        {
+          "name": "projectNo",
+          "children": []
+        },
+        {
+          "name": "projectFund",
+          "children": []
+        },
+        {
+          "name": "projectOrigin",
+          "children": []
+        },
+        {
+          "name": "projectReward",
+          "children": []
+        },
+        {
+          "name": "instituteStandard",
+          "children": []
+        },
+        {
+          "name": "resourceIds",
+          "children": []
+        },
+        {
+          "name": "teamMemberName",
+          "children": []
+        },
+        {
+          "name": "teamMemberKId",
+          "children": []
+        },
+        {
+          "name": "teamMemberWeight",
+          "children": []
+        },
+        {
+          "name": "activityCategory",
+          "children": []
+        },
+        {
+          "name": "activityDate",
+          "children": []
+        },
+        {
+          "name": "activityBody",
+          "children": []
+        },
+        {
+          "name": "filePath",
+          "children": []
+        },
+        {
+          "name": "isSystem",
+          "children": []
+        },
+        {
+          "name": "isValid",
+          "children": []
+        },
+        {
+          "name": "isConfirmed",
+          "children": []
+        },
+        {
+          "name": "isDeleted",
+          "children": []
+        },
+        {
+          "name": "operateTime",
+          "children": []
+        },
+        {
+          "name": "source_db",
+          "children": []
+        },
+        {
+          "name": "expert_id",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "project",
+      "children": [
+        {
+          "name": "projectNo",
+          "children": []
+        },
+        {
+          "name": "owner",
+          "children": []
+        },
+        {
+          "name": "成果_会议论文",
+          "children": []
+        },
+        {
+          "name": "teamMemberName",
+          "children": []
+        },
+        {
+          "name": "isCore",
+          "children": []
+        },
+        {
+          "name": "source",
+          "children": []
+        },
+        {
+          "name": "项目负责人",
+          "children": []
+        },
+        {
+          "name": "publicationDate",
+          "children": []
+        },
+        {
+          "name": "degree",
+          "children": []
+        },
+        {
+          "name": "资助经费",
+          "children": []
+        },
+        {
+          "name": "creatorAll",
+          "children": []
+        },
+        {
+          "name": "unionId",
+          "children": []
+        },
+        {
+          "name": "expert_id",
+          "children": []
+        },
+        {
+          "name": "四级学科",
+          "children": []
+        },
+        {
+          "name": "成果_专利",
+          "children": []
+        },
+        {
+          "name": "page",
+          "children": []
+        },
+        {
+          "name": "instituteStandard",
+          "children": []
+        },
+        {
+          "name": "isbn",
+          "children": []
+        },
+        {
+          "name": "issn",
+          "children": []
+        },
+        {
+          "name": "applicationDate",
+          "children": []
+        },
+        {
+          "name": "first_subject",
+          "children": []
+        },
+        {
+          "name": "项目类型",
+          "children": []
+        },
+        {
+          "name": "projectOrigin",
+          "children": []
+        },
+        {
+          "name": "fourth_subject",
+          "children": []
+        },
+        {
+          "name": "journal",
+          "children": []
+        },
+        {
+          "name": "isSystem",
+          "children": []
+        },
+        {
+          "name": "priority",
+          "children": []
+        },
+        {
+          "name": "publisher",
+          "children": []
+        },
+        {
+          "name": "type",
+          "children": []
+        },
+        {
+          "name": "creatorStandard",
+          "children": []
+        },
+        {
+          "name": "domain",
+          "children": []
+        },
+        {
+          "name": "activityBody",
+          "children": []
+        },
+        {
+          "name": "isValid",
+          "children": []
+        },
+        {
+          "name": "keyword",
+          "children": []
+        },
+        {
+          "name": "成果_期刊论文",
+          "children": []
+        },
+        {
+          "name": "titleAlt",
+          "children": []
+        },
+        {
+          "name": "autoDelete",
+          "children": []
+        },
+        {
+          "name": "language",
+          "children": []
+        },
+        {
+          "name": "languageStandard",
+          "children": []
+        },
+        {
+          "name": "city",
+          "children": []
+        },
+        {
+          "name": "标志",
+          "children": []
+        },
+        {
+          "name": "filePath",
+          "children": []
+        },
+        {
+          "name": "third_subject",
+          "children": []
+        },
+        {
+          "name": "resourceId",
+          "children": []
+        },
+        {
+          "name": "url",
+          "children": []
+        },
+        {
+          "name": "title",
+          "children": []
+        },
+        {
+          "name": "teamMemberWeight",
+          "children": []
+        },
+        {
+          "name": "tutor",
+          "children": []
+        },
+        {
+          "name": "conferenceName",
+          "children": []
+        },
+        {
+          "name": "projectFund",
+          "children": []
+        },
+        {
+          "name": "subject",
+          "children": []
+        },
+        {
+          "name": "volume",
+          "children": []
+        },
+        {
+          "name": "creator",
+          "children": []
+        },
+        {
+          "name": "成果_奖励",
+          "children": []
+        },
+        {
+          "name": "creatorAlt",
+          "children": []
+        },
+        {
+          "name": "source_db",
+          "children": []
+        },
+        {
+          "name": "isDeleted",
+          "children": []
+        },
+        {
+          "name": "resourceIds",
+          "children": []
+        },
+        {
+          "name": "person_id",
+          "children": []
+        },
+        {
+          "name": "批准年度",
+          "children": []
+        },
+        {
+          "name": "year",
+          "children": []
+        },
+        {
+          "name": "doi",
+          "children": []
+        },
+        {
+          "name": "province",
+          "children": []
+        },
+        {
+          "name": "projectReward",
+          "children": []
+        },
+        {
+          "name": "_id",
+          "children": []
+        },
+        {
+          "name": "address",
+          "children": []
+        },
+        {
+          "name": "项目类型id",
+          "children": []
+        },
+        {
+          "name": "resourceCode",
+          "children": []
+        },
+        {
+          "name": "institute",
+          "children": []
+        },
+        {
+          "name": "activityDate",
+          "children": []
+        },
+        {
+          "name": "school_id",
+          "children": []
+        },
+        {
+          "name": "operateTime",
+          "children": []
+        },
+        {
+          "name": "isConfirmed",
+          "children": []
+        },
+        {
+          "name": "依托单位",
+          "children": []
+        },
+        {
+          "name": "批准号",
+          "children": []
+        },
+        {
+          "name": "teamMemberKId",
+          "children": []
+        },
+        {
+          "name": "id",
+          "children": []
+        },
+        {
+          "name": "patentNo",
+          "children": []
+        },
+        {
+          "name": "second_subject",
+          "children": []
+        },
+        {
+          "name": "candidateId",
+          "children": []
+        },
+        {
+          "name": "keywordAlt",
+          "children": []
+        },
+        {
+          "name": "issue",
+          "children": []
+        },
+        {
+          "name": "applicationNo",
+          "children": []
+        },
+        {
+          "name": "instituteAll",
+          "children": []
+        },
+        {
+          "name": "成果_著作",
+          "children": []
+        },
+        {
+          "name": "activityCategory",
+          "children": []
+        },
+        {
+          "name": "项目id",
+          "children": []
+        },
+        {
+          "name": "creatorId",
+          "children": []
+        },
+        {
+          "name": "关键词",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "paper",
+      "children": [
+        {
+          "name": "学科分类_子类_value",
+          "children": []
+        },
+        {
+          "name": "projectNo",
+          "children": []
+        },
+        {
+          "name": "owner",
+          "children": []
+        },
+        {
+          "name": "teamMemberName",
+          "children": []
+        },
+        {
+          "name": "location",
+          "children": []
+        },
+        {
+          "name": "isCore",
+          "children": []
+        },
+        {
+          "name": "source",
+          "children": []
+        },
+        {
+          "name": "publicationDate",
+          "children": []
+        },
+        {
+          "name": "degree",
+          "children": []
+        },
+        {
+          "name": "creatorAll",
+          "children": []
+        },
+        {
+          "name": "unionId",
+          "children": []
+        },
+        {
+          "name": "expert_id",
+          "children": []
+        },
+        {
+          "name": "page",
+          "children": []
+        },
+        {
+          "name": "instituteStandard",
+          "children": []
+        },
+        {
+          "name": "fund_info02",
+          "children": []
+        },
+        {
+          "name": "isbn",
+          "children": []
+        },
+        {
+          "name": "issn",
+          "children": []
+        },
+        {
+          "name": "applicationDate",
+          "children": []
+        },
+        {
+          "name": "projectOrigin",
+          "children": []
+        },
+        {
+          "name": "journal",
+          "children": []
+        },
+        {
+          "name": "isSystem",
+          "children": []
+        },
+        {
+          "name": "priority",
+          "children": []
+        },
+        {
+          "name": "new_org",
+          "children": []
+        },
+        {
+          "name": "publisher",
+          "children": []
+        },
+        {
+          "name": "type",
+          "children": []
+        },
+        {
+          "name": "creatorStandard",
+          "children": []
+        },
+        {
+          "name": "domain",
+          "children": []
+        },
+        {
+          "name": "activityBody",
+          "children": []
+        },
+        {
+          "name": "isValid",
+          "children": []
+        },
+        {
+          "name": "keyword",
+          "children": []
+        },
+        {
+          "name": "titleAlt",
+          "children": []
+        },
+        {
+          "name": "学科分类_父类_value",
+          "children": []
+        },
+        {
+          "name": "summary",
+          "children": []
+        },
+        {
+          "name": "autoDelete",
+          "children": []
+        },
+        {
+          "name": "language",
+          "children": []
+        },
+        {
+          "name": "languageStandard",
+          "children": []
+        },
+        {
+          "name": "city",
+          "children": []
+        },
+        {
+          "name": "filePath",
+          "children": []
+        },
+        {
+          "name": "trans_title",
+          "children": []
+        },
+        {
+          "name": "resourceId",
+          "children": []
+        },
+        {
+          "name": "url",
+          "children": []
+        },
+        {
+          "name": "title",
+          "children": []
+        },
+        {
+          "name": "teamMemberWeight",
+          "children": []
+        },
+        {
+          "name": "学科分类_子类_name",
+          "children": []
+        },
+        {
+          "name": "perio_title",
+          "children": []
+        },
+        {
+          "name": "tutor",
+          "children": []
+        },
+        {
+          "name": "conferenceName",
+          "children": []
+        },
+        {
+          "name": "projectFund",
+          "children": []
+        },
+        {
+          "name": "subject",
+          "children": []
+        },
+        {
+          "name": "volume",
+          "children": []
+        },
+        {
+          "name": "unit_name",
+          "children": []
+        },
+        {
+          "name": "creator",
+          "children": []
+        },
+        {
+          "name": "creatorAlt",
+          "children": []
+        },
+        {
+          "name": "source_db",
+          "children": []
+        },
+        {
+          "name": "isDeleted",
+          "children": []
+        },
+        {
+          "name": "resourceIds",
+          "children": []
+        },
+        {
+          "name": "keywords",
+          "children": []
+        },
+        {
+          "name": "year",
+          "children": []
+        },
+        {
+          "name": "doi",
+          "children": []
+        },
+        {
+          "name": "column_name",
+          "children": []
+        },
+        {
+          "name": "first_authors",
+          "children": []
+        },
+        {
+          "name": "province",
+          "children": []
+        },
+        {
+          "name": "学科分类_父类_name",
+          "children": []
+        },
+        {
+          "name": "projectReward",
+          "children": []
+        },
+        {
+          "name": "_id",
+          "children": []
+        },
+        {
+          "name": "address",
+          "children": []
+        },
+        {
+          "name": "resourceCode",
+          "children": []
+        },
+        {
+          "name": "perio_title02",
+          "children": []
+        },
+        {
+          "name": "institute",
+          "children": []
+        },
+        {
+          "name": "activityDate",
+          "children": []
+        },
+        {
+          "name": "operateTime",
+          "children": []
+        },
+        {
+          "name": "isConfirmed",
+          "children": []
+        },
+        {
+          "name": "core_perio",
+          "children": []
+        },
+        {
+          "name": "unit_name02",
+          "children": []
+        },
+        {
+          "name": "teamMemberKId",
+          "children": []
+        },
+        {
+          "name": "id",
+          "children": []
+        },
+        {
+          "name": "patentNo",
+          "children": []
+        },
+        {
+          "name": "candidateId",
+          "children": []
+        },
+        {
+          "name": "keywordAlt",
+          "children": []
+        },
+        {
+          "name": "issue",
+          "children": []
+        },
+        {
+          "name": "common_year",
+          "children": []
+        },
+        {
+          "name": "applicationNo",
+          "children": []
+        },
+        {
+          "name": "instituteAll",
+          "children": []
+        },
+        {
+          "name": "activityCategory",
+          "children": []
+        },
+        {
+          "name": "publish_year",
+          "children": []
+        },
+        {
+          "name": "authors_name",
+          "children": []
+        },
+        {
+          "name": "学校_查询",
+          "children": []
+        },
+        {
+          "name": "creatorId",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "patent",
+      "children": [
+        {
+          "name": "app_address",
+          "children": []
+        },
+        {
+          "name": "app_area_code",
+          "children": []
+        },
+        {
+          "name": "projectNo",
+          "children": []
+        },
+        {
+          "name": "class_code",
+          "children": []
+        },
+        {
+          "name": "owner",
+          "children": []
+        },
+        {
+          "name": "inv_name",
+          "children": []
+        },
+        {
+          "name": "teamMemberName",
+          "children": []
+        },
+        {
+          "name": "isCore",
+          "children": []
+        },
+        {
+          "name": "source",
+          "children": []
+        },
+        {
+          "name": "publicationDate",
+          "children": []
+        },
+        {
+          "name": "degree",
+          "children": []
+        },
+        {
+          "name": "text_author",
+          "children": []
+        },
+        {
+          "name": "data_sort",
+          "children": []
+        },
+        {
+          "name": "creatorAll",
+          "children": []
+        },
+        {
+          "name": "unionId",
+          "children": []
+        },
+        {
+          "name": "expert_id",
+          "children": []
+        },
+        {
+          "name": "page",
+          "children": []
+        },
+        {
+          "name": "instituteStandard",
+          "children": []
+        },
+        {
+          "name": "title02",
+          "children": []
+        },
+        {
+          "name": "applicant_name",
+          "children": []
+        },
+        {
+          "name": "isbn",
+          "children": []
+        },
+        {
+          "name": "issn",
+          "children": []
+        },
+        {
+          "name": "applicationDate",
+          "children": []
+        },
+        {
+          "name": "projectOrigin",
+          "children": []
+        },
+        {
+          "name": "journal",
+          "children": []
+        },
+        {
+          "name": "isSystem",
+          "children": []
+        },
+        {
+          "name": "priority",
+          "children": []
+        },
+        {
+          "name": "pub_org_code",
+          "children": []
+        },
+        {
+          "name": "publisher",
+          "children": []
+        },
+        {
+          "name": "type",
+          "children": []
+        },
+        {
+          "name": "creatorStandard",
+          "children": []
+        },
+        {
+          "name": "domain",
+          "children": []
+        },
+        {
+          "name": "activityBody",
+          "children": []
+        },
+        {
+          "name": "isValid",
+          "children": []
+        },
+        {
+          "name": "keyword",
+          "children": []
+        },
+        {
+          "name": "titleAlt",
+          "children": []
+        },
+        {
+          "name": "summary",
+          "children": []
+        },
+        {
+          "name": "autoDelete",
+          "children": []
+        },
+        {
+          "name": "language",
+          "children": []
+        },
+        {
+          "name": "pub_date",
+          "children": []
+        },
+        {
+          "name": "languageStandard",
+          "children": []
+        },
+        {
+          "name": "city",
+          "children": []
+        },
+        {
+          "name": "filePath",
+          "children": []
+        },
+        {
+          "name": "resourceId",
+          "children": []
+        },
+        {
+          "name": "url",
+          "children": []
+        },
+        {
+          "name": "title",
+          "children": []
+        },
+        {
+          "name": "teamMemberWeight",
+          "children": []
+        },
+        {
+          "name": "tutor",
+          "children": []
+        },
+        {
+          "name": "conferenceName",
+          "children": []
+        },
+        {
+          "name": "updatetime",
+          "children": []
+        },
+        {
+          "name": "projectFund",
+          "children": []
+        },
+        {
+          "name": "signory",
+          "children": []
+        },
+        {
+          "name": "subject",
+          "children": []
+        },
+        {
+          "name": "volume",
+          "children": []
+        },
+        {
+          "name": "creator",
+          "children": []
+        },
+        {
+          "name": "legal_status",
+          "children": []
+        },
+        {
+          "name": "proposer_name",
+          "children": []
+        },
+        {
+          "name": "classcode_level",
+          "children": []
+        },
+        {
+          "name": "app_date02",
+          "children": []
+        },
+        {
+          "name": "creatorAlt",
+          "children": []
+        },
+        {
+          "name": "source_db",
+          "children": []
+        },
+        {
+          "name": "patent_id",
+          "children": []
+        },
+        {
+          "name": "isDeleted",
+          "children": []
+        },
+        {
+          "name": "issue_dir",
+          "children": []
+        },
+        {
+          "name": "resourceIds",
+          "children": []
+        },
+        {
+          "name": "text_unit",
+          "children": []
+        },
+        {
+          "name": "keywords",
+          "children": []
+        },
+        {
+          "name": "pub_num",
+          "children": []
+        },
+        {
+          "name": "year",
+          "children": []
+        },
+        {
+          "name": "doi",
+          "children": []
+        },
+        {
+          "name": "patent_type",
+          "children": []
+        },
+        {
+          "name": "op",
+          "children": []
+        },
+        {
+          "name": "province",
+          "children": []
+        },
+        {
+          "name": "auth_area",
+          "children": []
+        },
+        {
+          "name": "projectReward",
+          "children": []
+        },
+        {
+          "name": "_id",
+          "children": []
+        },
+        {
+          "name": "address",
+          "children": []
+        },
+        {
+          "name": "main_classcode",
+          "children": []
+        },
+        {
+          "name": "resourceCode",
+          "children": []
+        },
+        {
+          "name": "institute",
+          "children": []
+        },
+        {
+          "name": "activityDate",
+          "children": []
+        },
+        {
+          "name": "operateTime",
+          "children": []
+        },
+        {
+          "name": "isConfirmed",
+          "children": []
+        },
+        {
+          "name": "unit_name02",
+          "children": []
+        },
+        {
+          "name": "teamMemberKId",
+          "children": []
+        },
+        {
+          "name": "id",
+          "children": []
+        },
+        {
+          "name": "patentNo",
+          "children": []
+        },
+        {
+          "name": "class_type",
+          "children": []
+        },
+        {
+          "name": "candidateId",
+          "children": []
+        },
+        {
+          "name": "keywordAlt",
+          "children": []
+        },
+        {
+          "name": "issue",
+          "children": []
+        },
+        {
+          "name": "common_year",
+          "children": []
+        },
+        {
+          "name": "applicationNo",
+          "children": []
+        },
+        {
+          "name": "patent_num",
+          "children": []
+        },
+        {
+          "name": "instituteAll",
+          "children": []
+        },
+        {
+          "name": "activityCategory",
+          "children": []
+        },
+        {
+          "name": "page_cnt",
+          "children": []
+        },
+        {
+          "name": "app_num",
+          "children": []
+        },
+        {
+          "name": "creatorId",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
